@@ -1,0 +1,36 @@
+.header {
+    background-size:cover;   
+    background-repeat:no-repeat;
+    background-position:top center;
+
+    &__content {
+        background-color: $dark;
+        &__wrapper {
+            text-align: center;
+            padding-top:var(--spacing-extra-extra-large);
+            padding-bottom:var(--spacing-extra-extra-large);
+            padding-left:var(--spacing-medium);
+            padding-right:var(--spacing-medium);
+
+            @include responsive('small') {
+            padding-left:var(--spacing-large);
+            padding-right:var(--spacing-large);
+            }
+            &__title {
+                font-size: 2rem;
+                font-size: 1rem;
+                font-weight: 200;
+                color: white;
+                margin-bottom: 0;
+                line-height: 1.1;
+            }
+        }
+        font-size:3rem;
+        font-weight:200;
+    }
+    
+}
+
+.navigation {
+    background-color: $dark;
+}

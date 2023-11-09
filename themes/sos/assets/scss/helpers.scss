@@ -1,0 +1,48 @@
+/*
+* Variables for breakpoints
+*/
+$mobile-landscape: 568px;
+$tablet: 768px;
+$desktop: 992px;
+
+/*
+* Map for breakpoints
+*/
+$breakpoints: (
+    "small": (
+        min-width: $mobile-landscape,
+    ),
+    "medium": (
+        min-width: $tablet,
+    ),
+    "large": (
+        min-width: $desktop,
+    ),
+); 
+
+
+@mixin responsive($size) {
+    $query: map-get($breakpoints, $size);
+    
+        @media #{$query} {
+            @content;
+        }
+    }
+    
+// Use like this 
+//
+// .element {
+//     background-color: yellow; // Regular styles (For below 320px)
+//
+//     @include responsive('small') {
+//       background-color: red; // Styles for 'small' breakpoint or above (568px)
+//     }
+//
+//     @include responsive('medium') {
+//       background-color: green; // Styles for 'medium' breakpoint or above (768px)
+//     }
+//
+//     @include responsive('large') {
+//       background-color: blue; // Styles for 'large' breakpoint or above (1024px)
+//     }
+//   }

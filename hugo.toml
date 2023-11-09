@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'SOS écureuils roux et espèces sauvages'
+theme = 'sos'
+staticDir = ['static']
+toc = true
+
+[params]
+custom_css = ["main.css"]
+
+[[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 4
+
+[[menu.main]]
+    name = "À propos"
+    url = "/about/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+
+[markup]
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = false
+        startLevel = 1

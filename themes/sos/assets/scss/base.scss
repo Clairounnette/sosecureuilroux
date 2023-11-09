@@ -1,0 +1,115 @@
+@import "_colors.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,900;1,100&display=swap');
+
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: $text-color;
+    background-color: $bg-color;
+    min-height: 100vh;
+    position: relative;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: bold;
+    color: $text-color;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: $text-color;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: $text-color;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Links */
+a {
+color: $text-color;
+text-decoration: none;
+transition: color 0.3s;
+}
+
+a:hover {
+color: $primary-color;
+}
+
+/* Input Styles */
+input {
+padding: 10px;
+border: 1px solid $primary-color;
+border-radius: 5px;
+font-size: 16px;
+transition: border-color 0.3s;
+}
+
+input:focus {
+outline: none;
+border-color: $secondary-color;
+}
+
+/* Form Styles */
+.form-group {
+margin-bottom: 20px;
+}
+
+/* Container Styles */
+.container {
+max-width: 1200px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+/* Section Styles */
+.section {
+padding: 40px 0;
+}
+
+/* Button Styles */
+.button {
+display: inline-block;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+font-size: 16px;
+cursor: pointer;
+transition: background-color 0.3s, color 0.3s;
+}
+
+.primary-button {
+background-color: $primary-color;
+color: #ffffff;
+}
+
+.secondary-button {
+background-color: $secondary-color;
+color: #ffffff;
+}
+
+/* Alert Styles */
+.alert {
+padding: 10px 20px;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+
+.success {
+background-color: lighten($secondary-color, 40%);
+color: $text-color;
+}
+
+.error {
+background-color: lighten(#e74c3c, 40%);
+color: $text-color;
+}

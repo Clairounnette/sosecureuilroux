@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns w-100 w-70-ns center">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+
+    {{ $currentSection := .Section }}
+    {{ $articles := slice }}
+    
+    {{ range .Site.RegularPages }}
+        {{ if or (eq .Section $currentSection) (in .Sections $currentSection) }}
+            {{ $articles = $articles | append . }}
+        {{ end }}
+    {{ end }}
+    
+    {{ $allTags := slice }}
+    {{ range $articles }}
+        {{ $tags := .Params.tags }}
+        {{ $allTags = union $allTags $tags }}
+    {{ end }}
+
+    <section class="articles">
+      {{ range $allTags }}
+          {{ $currentTag := . }}
+          <h1><a href="/tags/{{  . | urlize }}">{{ . }}</a></h1>
+          <ul class="articles__list">
+          {{ range $articles }}
+              {{ $articleTags := .Params.tags }}
+              {{ if in $articleTags $currentTag }}
+              <div class="articles__list__entry">
+                {{ .Render "summary" }}
+              </div>
+              {{ end }}
+          {{ end }}
+        </ul>
+      {{ end }}
+      
+    </section>
+  </article>
+{{ end }}

@@ -1,0 +1,3 @@
+<figure>
+    {{ readFile (print "static/" (index .Params.src)) | safeHTML }}
+</figure>
