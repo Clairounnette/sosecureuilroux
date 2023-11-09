@@ -2,7 +2,7 @@
 title: "SOS écureuils roux et espèces sauvages"
 date: 2023-11-03T16:30:00+01:00
 description: "SERES Association loi 1901, et le Club CPN. Les Goupils d'Halatte"
-featured_image: 'images/wallpaper_sos.jpg'
+featured_image: '/images/wallpaper_sos.jpg'
 ---
 L'impact de l'activité humaine sur la faune sauvage est alarmant, avec une estimation de 25% des espèces animales menacées de disparition d'ici la prochaine décennie. 
 
