@@ -3,7 +3,6 @@ title: "Présentation des minéraux"
 date: 2023-04-11
 tags: 
     - Minéraux
-    - Présentation
 categories:
     - article
 description: "Présentation des minéraux"

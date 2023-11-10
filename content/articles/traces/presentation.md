@@ -3,7 +3,6 @@ title: "Présentation des traces"
 date: 2023-04-11
 tags: 
     - Traces
-    - Présentation
 categories:
     - article
 description: "Présentation des traces"

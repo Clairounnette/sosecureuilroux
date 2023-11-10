@@ -2,9 +2,7 @@
 title: "Diaporama des corridors"
 date: 2023-04-11
 tags: 
-    - Corridor
-    - Ecuroduc
-    - Diaporama
+    - Corridors
 categories:
     - article
 description: 'Diaporama des corridors'

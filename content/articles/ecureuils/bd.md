@@ -3,7 +3,6 @@ title: "La Bande Dessinée"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - BD
 categories:
     - article
 description: 'La Bande Dessinée des écureuils'

@@ -3,7 +3,6 @@ title: Identification de l'espéce"
 date: 2023-04-11
 tags: 
    - Écureuils
-   - Identification
 categories:
    - article
 description: "Identification de l'espéce"

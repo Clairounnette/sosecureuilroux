@@ -3,7 +3,6 @@ title: "Habitat de l'écureuil"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - Habitat
 categories:
     - article
 description: "Habitat de l'écureuil"

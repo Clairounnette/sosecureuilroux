@@ -3,7 +3,6 @@ title: "Régime alimentaire"
 date: 2023-04-11
 tags: 
    - Écureuils
-   - Régime
 categories:
    - article
 description: 'Description du régime alimentaire des écureuils'

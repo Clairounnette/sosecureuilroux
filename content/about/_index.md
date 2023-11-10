@@ -1,14 +1,13 @@
-<!-- ---
+---
 title: "A propos"
 date: 2023-04-11
 tags: 
-    - apropos
-    - about
-description: 'Description de l'association'
+    - A propos
+description: "Description de l'association"
 images:
     - "/images/coridor/DSC09311.jpg"
 featured_image: "/images/coridor/DSC09311.jpg"
---- -->
+---
 
 # SOS Écureuil Roux et Espèces Sauvages.
  
@@ -35,27 +34,36 @@ Votre aide nous est précieuse, votre adhésion nous permettra de continuer notr
 ## L'équipe 
 
 {{< staff-cards >}}
+
     {{< staff-card name="Bernard Bultel" status="Président" description="Description" >}}
 
     {{< staff-card name="Brigitte Desplechin-Lejeune" status="Trésorière" description="Description" >}}
 
-    {{< staff-card name="Béatrice Vavasseur" status="Membre" description="Assure le sauvetage des écureuils" mail="bea.vavasseur@yahoo.fr" photo="/images/association/DSCN2884.jpg" >}}
+    {{< staff-card name="Laurent Sulfour" status="Membre du conseil d'administration" description="Grimpeur d'arbre , spécialiste de l'installation des écuroducs, membre du conseil d'administrations actif de l'association arboreale" photo="/images/association/DSC02613+.jpg" >}}
 
-    {{< staff-card name="Sylvie Joinneau" status="Membre" description="Vétérinaire" photo="/images/association_fichiers/image002.jpg" >}}
+    {{< staff-card name="Charlotte Desthomas" status="Membre du conseil d'administration" description="Description" >}}
 
-    {{< staff-card name="Laurent Sulfour" status="Membre" description="Grimpeur d'arbre , spécialiste de l'installation des écuroducs, membres actif de l'association arboreale" photo="/images/association/DSC02613+.jpg" >}}
+    {{< staff-card name="Bernard Flamant" status="Membre du conseil d'administration" description="Description" >}}
 
-    {{< staff-card name="Romain Lavignotte" status="Membre" description="Description" >}}
+    {{< staff-card name="Didier Bigonne" status="Membre du conseil d'administration" description="Description" >}}
+
+    {{< staff-card name="Christelle Decaudain" status="Membre du conseil d'administration" description="Description" >}}
+
+    {{< staff-card name="Laurent Gilbert" status="Membre du conseil d'administration" description="Description" >}}
 
 
-    {{< staff-card name="Bernard Flamant" status="Membre" description="Description" >}}
+{{< /staff-cards >}}
 
-    {{< staff-card name="Didier Bigonne" status="Membre" description="Description" >}}
+## Nos contacts
 
-    {{< staff-card name="christelle Decaudain" status="Membre" description="Description" >}}
+{{< staff-cards >}}
 
-    {{< staff-card name="Laurent Gilbert" status="Membre" description="Description" >}}
 
+    {{< staff-card name="Béatrice Vavasseur" description="Assure le sauvetage des écureuils" mail="bea.vavasseur@yahoo.fr" photo="/images/association_fichiers/image002.jpg" photo="/images/association/DSCN2884.jpg" >}}
+
+    {{< staff-card name="Sylvie Joinneau" description="Vétérinaire">}}
+
+    {{< staff-card name="Romain Lavignotte" description="Description" >}}
 
 {{< /staff-cards >}}
 

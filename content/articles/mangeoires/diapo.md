@@ -2,8 +2,7 @@
 title: "Diaporama des mangeoires"
 date: 2023-04-11
 tags: 
-   - Mangeoire
-   - Diaporama
+   - Mangeoires
 categories:
    - article
 description: "Diaporama des mangeoires"

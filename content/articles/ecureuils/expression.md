@@ -3,7 +3,6 @@ title: "Modes d'expressions"
 date: 2023-04-11
 tags: 
    - Écureuils
-   - Comportement
 categories:
    - article
 description: "Modes d'expressions"

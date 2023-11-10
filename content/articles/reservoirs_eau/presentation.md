@@ -3,7 +3,6 @@ title: "Présentation d'un résérvoir d'eau"
 date: 2023-04-11
 tags: 
     - Réservoir d'eau
-    - Présentation
 categories:
     - article
 description: "Présentation d'un résérvoir d'eau"

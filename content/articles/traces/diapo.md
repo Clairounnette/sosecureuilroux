@@ -3,7 +3,6 @@ title: "Diapo des traces"
 date: 2023-04-11
 tags: 
     - Traces
-    - Diaporama
 categories:
     - article
 description: "Diapo des traces"

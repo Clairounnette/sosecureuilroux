@@ -3,7 +3,6 @@ title: "Présentation générale"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - Présentation
 categories:
     - article
 description: "Présentation de l'écureuil"

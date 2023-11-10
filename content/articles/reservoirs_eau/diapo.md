@@ -1,7 +1,8 @@
 ---
 title: "Diapo des résérvoirs d'eau"
 date: 2023-04-11
-tags: ["Réservoir d'eau","Diaporama"]
+tags: 
+    - Réservoir d'eau
 categories:
     - article
 description: "Diapo des résérvoirs d'eau"

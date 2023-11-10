@@ -14,7 +14,7 @@ custom_css = ["main.css"]
     weight = 1
 
 [[menu.main]]
-    name = "News"
+    name = "Actus"
     url = "/news/"
     weight = 2
     

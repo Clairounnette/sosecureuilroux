@@ -3,7 +3,6 @@ title: "Moeurs"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - Comportement
 categories:
     - article
 description: 'Description des moeurs des écureuils'

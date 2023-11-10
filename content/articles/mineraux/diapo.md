@@ -3,7 +3,6 @@ title: "Diaporama des minéraux"
 date: 2023-04-11
 tags: 
    - Minéraux
-   - Diaporama
 categories:
    - article
 description: "Diaporama des minéraux"

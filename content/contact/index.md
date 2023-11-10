@@ -4,7 +4,8 @@ Pour contacter l´association :
 
 ## Par mail
 
-mail.ecureil@ecureuil.fr
+sosecureuilsroux@gmail.com
 
 ## Sur Facebook
 
+https://www.facebook.com/profile.php?id=100008174590854

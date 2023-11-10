@@ -3,7 +3,6 @@ title: "Construction d'un résérvoir d'eau"
 date: 2023-04-11
 tags: 
     - Réservoir d'eau
-    - Construction
 categories:
     - article
 description: "Construction d'un résérvoir d'eau"

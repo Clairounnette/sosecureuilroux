@@ -3,8 +3,6 @@ title: "Sauvetage d'un jeune écureuil "
 date: 2023-04-11
 tags: 
     - Sauvetage
-    - Écureuils
-    - Présentation
 categories:
     - article
 description: "Sauvetage d'un jeune écureuil "

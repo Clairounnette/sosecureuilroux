@@ -3,7 +3,6 @@ title: "Epicéa"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - Arbre
 categories:
     - article
 description: 'Epicéa'

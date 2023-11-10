@@ -2,9 +2,7 @@
 title: "Presentation des Corridors"
 date: 2023-04-11
 tags: 
-    - Corridor
-    - Ecuroduc
-    - Présentation
+    - Corridors
 categories:
     - article
 description: 'Description des Ecuroducs'

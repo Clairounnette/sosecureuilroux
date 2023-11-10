@@ -3,7 +3,6 @@ title: "Diaporama des écureuils"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - Diaporama
 categories:
     - article
 description: Diaporama des écureuils'

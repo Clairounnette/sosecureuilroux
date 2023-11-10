@@ -2,8 +2,7 @@
 title: "Construction d'une mangeoire"
 date: 2023-04-11
 tags: 
-   - Mangeoire
-   - Construction
+   - Mangeoires
 categories:
    - article
 description: "Construction d'une mangeoire"

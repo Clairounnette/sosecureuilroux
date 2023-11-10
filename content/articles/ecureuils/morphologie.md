@@ -3,7 +3,6 @@ title: "Morphologie"
 date: 2023-04-11
 tags: 
    - Écureuils
-   - Morphologie
 categories:
    - article
 description: 'Description de la morphologie des écureuils'
