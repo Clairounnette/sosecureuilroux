@@ -1,15 +1,15 @@
 ---
-title: "Forum des associations 2023"
+title: "Forum des associations"
 date: 2023-04-11
 tags: 
     - news
     - forum
 categories:
     - news
-description: "Forum des associations 2023"
+description: "Forum des associations"
 images:
-    - "/images/reserveau/raw190.jpg"
-featured_image: "/images/reserveau/raw190.jpg"
+    - "/images/articles/reserveau/raw190.jpg"
+featured_image: "/images/articles/reserveau/raw190.jpg"
 ---
 
 Forum des assocations 

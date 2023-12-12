@@ -7,8 +7,8 @@ categories:
    - article
 description: "L'écureuil dans le monde"
 images:
-   - "/images/presenta/DSC00714.jpg"
-featured_image: "/images/presenta/DSC00714.jpg"
+   - "/images/articles/presenta/DSC00714.jpg"
+featured_image: "/images/articles/presenta/DSC00714.jpg"
 ---
 
 # L'écureuil dans le monde
@@ -22,11 +22,11 @@ Si lors de vos escapes vous avez l'occasion de prendre en photo une de ces nombr
 
 Région de Miami 
 
-![](/images/presenta/DSC06070+.jpg) 
+![](/images/articles/presenta/DSC06070+.jpg) 
 
 Région de New York 
 
-![](/images/presenta/P1010249.jpg) 
+![](/images/articles/presenta/P1010249.jpg) 
 
 
 ![](monde/2009-12-22%20USA%20New-York%20S%20(100).JPG) 
@@ -42,19 +42,19 @@ Région de New York
 
 ## L'écureuil de Corée ou de siberie 
 
-![](/images/presenta/Photo%2520130%5B1%5D.jpg) 
+![](/images/articles/presenta/Photo%2520130%5B1%5D.jpg) 
 
 Région de Yosemite Park 
 
 CHIPMUNKS ou tamia d'Amérique du nord 
 
-![](/images/autres/2008-08-06%20USA%20Lee%20Vining%20-%20Yosemite%20-%20Mariposa%20149.jpg) 
+![](/images/articles/autres/2008-08-06%20USA%20Lee%20Vining%20-%20Yosemite%20-%20Mariposa%20149.jpg) 
 
 
 ## L'écureuil d'Afrique du sud 
 
 (région du Kruger parc) 
-![](/images/presenta/DSC01669.jpg) 
+![](/images/articles/presenta/DSC01669.jpg) 
 
 *[é]* ] [ [ ]D.Baillie 
 
@@ -67,7 +67,7 @@ CHIPMUNKS ou tamia d'Amérique du nord
 ## L'écureuil d'Afrique du nord 
 
 (Maroc, Algérie, Tunisie, Libye, et Canarie) 
-![](/images/presenta/P1000604.jpg) 
+![](/images/articles/presenta/P1000604.jpg) 
 
 écureuil de Barbarie 
 

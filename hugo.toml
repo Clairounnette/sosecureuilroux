@@ -21,7 +21,12 @@ custom_css = ["main.css"]
 [[menu.main]]
     name = "Articles"
     url = "/articles/"
-    weight = 4
+    weight = 3
+
+[[menu.main]]
+    name = "Les écuroducs"
+    url = "/ecuroducs/"
+    weight = 3
 
 [[menu.main]]
     name = "À propos"

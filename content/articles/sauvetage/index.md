@@ -7,8 +7,8 @@ categories:
     - article
 description: "Sauvetage d'un jeune écureuil "
 images:
-    - "/images/contact/DSC03857.jpg"
-featured_image: "/images/contact/DSC03857.jpg"
+    - "/images/articles/contact/DSC03857.jpg"
+featured_image: "/images/articles/contact/DSC03857.jpg"
 ---
 
 # Sauvetage d'un jeune écureuil 

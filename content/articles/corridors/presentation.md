@@ -7,8 +7,8 @@ categories:
     - article
 description: 'Description des Ecuroducs'
 images:
-    - "/images/coridor/DSC09311.jpg"
-featured_image: "/images/coridor/DSC09311.jpg"
+    - "/images/articles/coridor/DSC09311.jpg"
+featured_image: "/images/articles/coridor/DSC09311.jpg"
 ---
 
 # Les corridors naturel et artificiel "Ecuroduc" 
@@ -36,7 +36,7 @@ C'est très certainement le meilleur type de corridor qui  puisse exister pour 
  
 Il n'est pas difficile d'imaginer ce que ce type de corridor peut sauver chaque année comme animaux sauvages. Le problème est que les hommes ont tendance à oublier l'importance de ce type de passage quand ils se mettent à élaguer à tout va, "pour faire propre ". 
  
- ![](/images/coridor/STA60013.jpg) 
+ ![](/images/articles/coridor/STA60013.jpg) 
  
  ### Les corridors artificiels : L'écuroduc
  
@@ -44,23 +44,23 @@ Il n'est pas difficile d'imaginer ce que ce type de corridor peut sauver chaque 
  
  - [ L'écuroduc est un corridor biologique artificiel mis en place au-dessus d'un obstacle, principalement une route, qui permet le passage aérien en toute sécurité des écureuils.] 
  
- ![](/images/coridor/PICT0080.jpg) 
+ ![](/images/articles/coridor/PICT0080.jpg) 
  
- ![](/images/coridor/PICT0114.jpg) 
+ ![](/images/articles/coridor/PICT0114.jpg) 
  
 
  ## Objectif 
    
  - [Faciliter au maximum ces passages migratoires pour diminuer les accidents liés aux prises de risque.] 
  
- ![](/images/coridor/PICT0083.jpg) 
+ ![](/images/articles/coridor/PICT0083.jpg) 
  
 
  ## Solution 
    
  - [Déterminer les zones à risques.] 
  
- ![](/images/coridor/STA60002.jpg) 
+ ![](/images/articles/coridor/STA60002.jpg) 
  
  - [Fabriquer les corridors biologiques.] 
  - [Mettre en place des corridors biologique adaptés.] 
@@ -78,5 +78,5 @@ L'installation de ces écuroducs nécessites un minimum de compétence technique
 - Pour tout savoir sur l'installation d'un écuroduc voir cahier des charges ci-joint (en construction). 
 - Reportage TV sur l'écuroduc de Rambouillet . 
 
-![](/images/coridor/DSC02826+.jpg)
+![](/images/articles/coridor/DSC02826+.jpg)
  

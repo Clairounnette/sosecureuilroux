@@ -1,16 +1,16 @@
-{{- $name := .Get "name" -}}
-{{- $description := .Get "description" -}}
-{{- $status := .Get "status" -}}
-{{- $mail := .Get "mail" -}}
-{{- $number := .Get "number" -}}
-{{- $photo := .Get "photo" -}}
+{{- $name := .Get "name" -}} {{- $description := .Get "description" -}} {{-
+$status := .Get "status" -}} {{- $mail := .Get "mail" -}} {{- $number := .Get
+"number" -}} {{- $photo := .Get "photo" -}}
 
 <div class="staff-card">
     <div class="img-container">
         {{ if ne $photo "" }}
-                <img src="{{ $photo }}" alt="{{ $name }}" />
+        <img src="{{ $photo }}" alt="{{ $name }}" />
         {{ else }}
-            <img src="/images/staff-card/squirell.jpg" alt="Ecureil roux, photo de Ray eye" />
+        <img
+            src="/images/default-cover/squirell.jpg"
+            alt="Ecureil roux, photo de Ray eye"
+        />
         {{ end }}
     </div>
     <div class="staff-card__content">
@@ -20,20 +20,19 @@
             <p>{{ $status }}</p>
         </div>
         {{ end }}
-            <div class="description">        
-                <p>{{ $description }}</p>
-            </div>
+        <div class="description">
+            <p>{{ $description }}</p>
+        </div>
         {{ if ne $mail "" }}
         <div class="staff-card__contact">
             {{ readFile "assets/icons/material/mail.svg"| safeHTML }}
             <p>{{ $mail }}</p>
         </div>
-        {{ end }}
-        {{ if ne $number "" }}
+        {{ end }} {{ if ne $number "" }}
         <div class="staff-card__contact">
             {{ readFile "assets/icons/material/phone.svg"| safeHTML }}
             <p>{{ $number }}</p>
         </div>
         {{ end }}
-    </div>  
+    </div>
 </div>

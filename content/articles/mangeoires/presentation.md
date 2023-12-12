@@ -57,12 +57,12 @@ Il n'y à pas de mangeoire type, mais certain  point essentielle doivent être 
 
 - Une semi fermeture, pour contenir les noix, noisette etc.. 
 
-![](/images/mangeoir_fichiers/image002.jpg) 
+![](/images/articles/mangeoir_fichiers/image002.jpg) 
 
 
 ## Consommation en KG de noix et noisette en 2007 
 
-![Consomation 2007](/images/nouritures%20ecureuiles_fichiers/nouritures%20ecureuiles_28428_image001.gif) 
+![Consomation 2007](/images/articles/nouritures%20ecureuiles_fichiers/nouritures%20ecureuiles_28428_image001.gif) 
 
 Ce graphique montre la quantité de noix consommé sur une période d'un an  
 

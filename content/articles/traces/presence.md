@@ -7,8 +7,8 @@ categories:
     - article
 description: "Présence des traces"
 images:
-    - "/images/tracespre/DSC08652.jpg"
-featured_image: "/images/tracespre/DSC08652.jpg"
+    - "/images/articles/tracespre/DSC08652.jpg"
+featured_image: "/images/articles/tracespre/DSC08652.jpg"
 ---
 
 # les traces de présences
@@ -18,7 +18,7 @@ featured_image: "/images/tracespre/DSC08652.jpg"
    
  Le nid ou la hotte: 
  
- ![](/images/tracespre/DSC08902.jpg) 
+ ![](/images/articles/tracespre/DSC08902.jpg) 
  
  Pendant la belle saison, fin d'été début de l'automne, les écureuils fabriquent leur nid dans la fourche des branches, bien souvent le long du tronc à l'aide de branches de l'arbre lui-même (pourquoi chercher des matériaux je ne sais où, alors qu'on en a sous la patte). Les écureuils découpent directement les branches de l'arbre avec les feuilles dessus, c'est pourquoi une fois sèches les feuilles restent sur la branche et donnent cette singularité au nid. Si le nid est fait sur un chêne alors on y verra des feuilles de chêne, si c'est un hêtre alors ce sera des feuilles de hêtre et ainsi de suite. 
  
@@ -29,9 +29,9 @@ featured_image: "/images/tracespre/DSC08652.jpg"
  Le premier est toujours fabriqué avec le plus grand soin alors que les autres nous semblent abandonnés, délaissés ou fabriqués avec peu de soin. 
  
  
- ![](/images/tracespre/image004.jpg) 
+ ![](/images/articles/tracespre/image004.jpg) 
  
- ![](/images/tracespre/image006.jpg) 
+ ![](/images/articles/tracespre/image006.jpg) 
  
  - Deux nids faits dans un hêtre : 
  
@@ -48,24 +48,24 @@ Je peux en déduire que l'artisan de ce nid est sans doute un juvénile de la pr
  
  - Autre exemple de nid où on distingue bien les feuilles en train de séchées sur leur branche.
  
- ![](/images/tracespre/image017.jpg) 
+ ![](/images/articles/tracespre/image017.jpg) 
  
 Ici on voit la partie isolante du nid, faite de foin, de poils etc. Cette partie étant éventrée il se peut que ce nid se soit fait attaqué. Dans tous les cas, le manque de soins de ce nid laisse à penser que, s'il est toujours utilisé, est un nid secondaire.  
  
  Si vous avez bien compris, dites moi de quel arbre s'agit-il ?
   eh oui c'est un chêne ! 
  
- ![](/images/tracespre/image019.jpg) 
+ ![](/images/articles/tracespre/image019.jpg) 
  
  Ce nid a été recouvert avec de l'herbe, comme pour faire un toit de chaume, la qualité de fabrication de ce nid laisse à penser que ce nid servira pour les naissances à venir. 
  
  les écureuils entretiennent leur nid tout au long de l'année, ici on voit bien que ce nid a été restauré avec de l'herbe fraîche (cette photo a été prise le 08/03/08). 
  
- ![](/images/tracespre/DSC09601.jpg) 
+ ![](/images/articles/tracespre/DSC09601.jpg) 
  
 Ici  le même nid que sur la photo précédente (photo prise le 20/04/08), ce nid a été détruit très certainement par une martre, ce qui prouve bien que ce nid était habité, et il est probable que la portée ait succombé aux griffes du prédateur. 
  
- ![](/images/tracespre/DSC09784.jpg) 
+ ![](/images/articles/tracespre/DSC09784.jpg) 
  
  - Ici cet écureuil fait l'état des lieux d'un vieux nid de corvidé, histoire de voir si cela vaut la peine de se lancer dans des travaux lourds.
  
@@ -73,13 +73,13 @@ Ici  le même nid que sur la photo précédente (photo prise le 20/04/08), ce n
  
  - Les écureuils récupérant les nids de corvidés sont vraisemblablement les juvéniles de la deuxième portée pris par le temps.
  
- ![](/images/tracespre/DSC07955.jpg) 
+ ![](/images/articles/tracespre/DSC07955.jpg) 
  
- ![](/images/tracespre/DSC07957.jpg) 
+ ![](/images/articles/tracespre/DSC07957.jpg) 
  
  -  Ce nid est particulièrement intéressant car il ne correspond à aucun critère classique de fabrication.
  
- ![](/images/tracespre/DSC09675.jpg) 
+ ![](/images/articles/tracespre/DSC09675.jpg) 
  
  - Tout d'abord parce qu'il n'y a pas de feuilles sur les branches, c'est peut-être un vieux nid de corvidé.
  
@@ -87,7 +87,7 @@ Ici  le même nid que sur la photo précédente (photo prise le 20/04/08), ce n
  
  - Ce qui prouve que ce nid a été fait à la fin de l'hiver par un écureuil.
  
- ![](/images/tracespre/DSC09675++.jpg) 
+ ![](/images/articles/tracespre/DSC09675++.jpg) 
  
  - Ici on peut voir que ce nid à été fait avec de la mousse et de l'herbe.  
  
@@ -97,7 +97,7 @@ Ici  le même nid que sur la photo précédente (photo prise le 20/04/08), ce n
  
  - Conclusion de ce nid: cet écureuil a fabriqué spécialement ce nid pour la mise bas de ses petits, car dans un raillon de 50mêtres, 2 autres nids de type classique sont disposés dans les arbres,  mais surtout cela prouve que les écureuils recommencent la fabrication de nid après l'hiver. La qualité de fabrication ne laisse aucun doute sur le fait que c'est ce nid qui est habité.
  
- ![](/images/tracespre/DSC09674.jpg) 
+ ![](/images/articles/tracespre/DSC09674.jpg) 
  
  - Ici on peut voir les feuilles sur les branches, et ce sont bien des feuilles de boulot, ce qui correspond à l'arbre et ce qui prouve que l'origine de ce nid est de la fin d'été précèdent, par contre la quantité d'herbe et la qualité de la toiture est exceptionnelle, ce qui prouve que ce nid est habité.
  
@@ -105,29 +105,29 @@ Ici  le même nid que sur la photo précédente (photo prise le 20/04/08), ce n
  
  - La qualité de l'herbe fraîche déposée sur ce nid prouve une fois de plus que l'occupant l'a élu pour ses mises bas et l'a restauré à la fin de l'hiver. 
  
- ![](/images/tracespre/DSC09639.jpg) 
+ ![](/images/articles/tracespre/DSC09639.jpg) 
  
- ![](/images/tracespre/DSC09653.jpg) 
+ ![](/images/articles/tracespre/DSC09653.jpg) 
  
  - Ceci est une photo du pied de l'arbre où se situe le nid, et on peut constater que la mousse qui a  poussé au pied de cet arbre a servi à la confection du nid. Les zones  de mousse arrachée le prouve.
  
- ![](/images/tracespre/DSC09753.jpg) 
+ ![](/images/articles/tracespre/DSC09753.jpg) 
  
  - Un matériau particulièrement apprécié des écureuils pour l'isolation de leur hotte, est la graine d'un liane, la Clématite "*Clematis Vitalba*". Cette graine ressemble un peu à la graine du pissenlit. Cette graine est supportée par une sorte de fleur en coton qui en fait n'en est pas une, mais plutôt un parachute qui va permettre à la graine de ce faire transporter sur de grandes distances par les vents. C'est exactement ce parachute en coton que l'écureuil apprécie  pour l'isolation de son nid. 
  
  - Nota: la clématite n'est pas une plante parasite, il est donc inutile de la scier pour soit disant faire respirer l'arbre! 
  
- ![](/images/les%20nids/DSC00790.jpg) 
+ ![](/images/articles/les%20nids/DSC00790.jpg) 
  
- ![](/images/les%20nids/DSC00794.jpg) 
+ ![](/images/articles/les%20nids/DSC00794.jpg) 
  
- ![](/images/les%20nids/DSC00805.jpg) 
+ ![](/images/articles/les%20nids/DSC00805.jpg) 
  
- ![](/images/les%20nids/DSC00799.jpg) 
+ ![](/images/articles/les%20nids/DSC00799.jpg) 
  
  - Les écureuils en font une grosse pelote qu'ils mettent dans leur gueule pour les transporter. Ils procèdent de la même manière pour le transport des mousses de lichen. 
  
- ![](/images/les%20nids/DSC00803.jpg) 
+ ![](/images/articles/les%20nids/DSC00803.jpg) 
  
  - Sur ces photos, on peut distinguer les graines qui ont servi à la partie isolante du nid! 
  
@@ -147,27 +147,27 @@ Ici  le même nid que sur la photo précédente (photo prise le 20/04/08), ce n
  
 La forme des traces est particulière à l'écureuil et ne peut se confondre avec un autre animal, car les traces laissées sur la neige après un saut ressemble un peu à la forme d'un papillon. L 'explication est que l'écureuil sautille comme un lapin, et à la réception de ses sauts les pattes avant se posent en premier et ensuite les pattes arrière viennent se poser devant les pattes avant, c'est ce qui donne ce côté atypique à ces traces.  
  
- ![](/images/tracespre/DSC02303.jpg) 
+ ![](/images/articles/tracespre/DSC02303.jpg) 
  
-![Traces des pattes arrière ](/images/tracepres_fichiers/image001.gif)]
-![Traces des pattes arrière ](/images/tracespre/DSCN3878.jpg)
-![Zone de Texte: Traces des pattes avant](/images/tracepres_fichiers/image002.gif) 
+![Traces des pattes arrière ](/images/articles/tracepres_fichiers/image001.gif)]
+![Traces des pattes arrière ](/images/articles/tracespre/DSCN3878.jpg)
+![Zone de Texte: Traces des pattes avant](/images/articles/tracepres_fichiers/image002.gif) 
  
  ![](images/tracespre/DSCN3642.JPG) 
  
  Un moyen infaillible de savoir  si on est ou pas sur les traces d'un écureuil, est que ses empreintes démarrent et s'arrêtent toujours au pied d'un arbre.  
  
- ![](/images/tracespre/DSC02302.jpg) 
+ ![](/images/articles/tracespre/DSC02302.jpg) 
  
  la photo suivante montre que les empreintes des pattes avant sont devant les empreintes des pattes arrière, ce qui correspond au trace laissés par les écureuils lorsqu'il ne sautent pas. 
  
- ![](/images/tracespre/DSC02307.jpg) 
+ ![](/images/articles/tracespre/DSC02307.jpg) 
  
  ![](images/tracespre/DSCN3649.JPG) 
  
 Cette photo donne une idée de l'échelle qui correspond à environ 10cm. 
  
- ![](/images/tracespre/DSCN3876.jpg) 
+ ![](/images/articles/tracespre/DSCN3876.jpg) 
  
  ![](images/tracespre/DSCN3905.JPG) 
  
@@ -180,15 +180,15 @@ Cette photo donne une idée de l'échelle qui correspond à environ 10cm.
  
  Certains experts parlent même de stress chez les écureuils, tellement leur souci de faire des réserves à l'automne les préoccupent. 
  
- ![](/images/tracespre/Photo%2520118%5B1%5D.jpg) 
+ ![](/images/articles/tracespre/Photo%2520118%5B1%5D.jpg) 
  
- ![](/images/tracespre/DSCN3693.jpg) 
+ ![](/images/articles/tracespre/DSCN3693.jpg) 
  
  Les caches peuvent être diverses à même le sol ou coincées entre deux branches ou stockées dans le creux d'un vieil arbre ou même dans un vieux nid. Ces indices nous serviront peut être à découvrir le territoire des écureuils, par contre le premier nous permettra à coup sûr de déterminer l'endroit  exact où vit le petit roux et comme tout le monde le sait, la vie tourne autour du frigidaire !! De plus on pourra peut être déterminer l'âge du capitaine. 
  
 Reconnaître un jeune noyer : 
  
- ![](/images/tracespre/image050.jpg) 
+ ![](/images/articles/tracespre/image050.jpg) 
  
  Les feuilles du noyer sont longues et de tailles importantes même quand la pousse est jeune comme sur cette photo, souvent ornée de 2 ou 3 branches.
  
@@ -196,25 +196,25 @@ Reconnaître un jeune noyer :
 
 les cachettes  
  
- ![](/images/tracespre/DSC09716.jpg) 
+ ![](/images/articles/tracespre/DSC09716.jpg) 
  
- ![](/images/tracespre/DSC09719.jpg) 
+ ![](/images/articles/tracespre/DSC09719.jpg) 
  
- ![](/images/tracespre/DSC09761.jpg) 
+ ![](/images/articles/tracespre/DSC09761.jpg) 
  
 
  ## Les ossements 
- ![](/images/tracespre/crane%201.jpeg.jpg) 
+ ![](/images/articles/tracespre/crane%201.jpeg.jpg) 
  
- ![](/images/tracespre/crane%203.jpeg.jpg) 
+ ![](/images/articles/tracespre/crane%203.jpeg.jpg) 
  
- ![](/images/tracespre/fs_red_squirrel_front.jpeg.jpg) 
+ ![](/images/articles/tracespre/fs_red_squirrel_front.jpeg.jpg) 
 
 ## les poils  
  
  - [Il arrive parfois que les écureuils s'accrochent aux branches avec leur queue, et laissent une quantité importante de poils derrière eux.] 
  - [la mue peut elle aussi favoriser la présence de poils.] 
  
- ![](/images/tracespre/P1020054.jpg) 
+ ![](/images/articles/tracespre/P1020054.jpg) 
  
 

@@ -7,47 +7,47 @@ categories:
     - article
 description: 'La Bande Dessinée des écureuils'
 images:
-    - "/images/bd/presBD1.jpg"
-featured_image: "/images/bd/presBD1.jpg"
+    - "/images/articles/bd/presBD1.jpg"
+featured_image: "/images/articles/bd/presBD1.jpg"
 ---
 
 
 # La Bande Dessinée 
 
-![](/images/bd/presBD1.jpg) 
+![](/images/articles/bd/presBD1.jpg) 
 
 Cette BD va vous permettre de comprendre en quelques images les menaces qui pésent sur l'écureuil roux 
 
-![](/images/bd/presBD2.jpg) 
+![](/images/articles/bd/presBD2.jpg) 
 
-![](/images/bd/presBD3.jpg) 
+![](/images/articles/bd/presBD3.jpg) 
 
-![](/images/bd/presBD4.jpg) 
+![](/images/articles/bd/presBD4.jpg) 
 
-![](/images/bd/presBD5.jpg) 
+![](/images/articles/bd/presBD5.jpg) 
 
-![](/images/bd/presBD6.jpg) 
+![](/images/articles/bd/presBD6.jpg) 
 
-![](/images/bd/presBD7.jpg) 
+![](/images/articles/bd/presBD7.jpg) 
 
-![](/images/bd/presBD8.jpg) 
+![](/images/articles/bd/presBD8.jpg) 
 
-![](/images/bd/presBD9.jpg) 
+![](/images/articles/bd/presBD9.jpg) 
 
-![](/images/bd/presBD10.jpg) 
+![](/images/articles/bd/presBD10.jpg) 
 
-![](/images/bd/presBD19.jpg) 
+![](/images/articles/bd/presBD19.jpg) 
 
-![](/images/bd/presBD12.jpg) 
+![](/images/articles/bd/presBD12.jpg) 
 
-![](/images/bd/presBD13.jpg) 
+![](/images/articles/bd/presBD13.jpg) 
 
-![](/images/bd/presBD14.jpg) 
+![](/images/articles/bd/presBD14.jpg) 
 
-![](/images/bd/presBD15.jpg) 
+![](/images/articles/bd/presBD15.jpg) 
 
-![](/images/bd/presBD16.jpg) 
+![](/images/articles/bd/presBD16.jpg) 
 
-![](/images/bd/presBD20.jpg) 
+![](/images/articles/bd/presBD20.jpg) 
 
-![](/images/bd/presBD18.jpg) 
+![](/images/articles/bd/presBD18.jpg) 

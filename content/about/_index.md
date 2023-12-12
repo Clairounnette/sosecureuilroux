@@ -5,8 +5,8 @@ tags:
     - A propos
 description: "Description de l'association"
 images:
-    - "/images/coridor/DSC09311.jpg"
-featured_image: "/images/coridor/DSC09311.jpg"
+    - "/images/articles/coridor/DSC09311.jpg"
+featured_image: "/images/articles/coridor/DSC09311.jpg"
 ---
 
 # SOS Écureuil Roux et Espèces Sauvages.
@@ -39,7 +39,7 @@ Votre aide nous est précieuse, votre adhésion nous permettra de continuer notr
 
     {{< staff-card name="Brigitte Desplechin-Lejeune" status="Trésorière" description="Description" >}}
 
-    {{< staff-card name="Laurent Sulfour" status="Membre du conseil d'administration" description="Grimpeur d'arbre , spécialiste de l'installation des écuroducs, membre du conseil d'administrations actif de l'association arboreale" photo="/images/association/DSC02613+.jpg" >}}
+    {{< staff-card name="Laurent Sulfour" status="Membre du conseil d'administration" description="Grimpeur d'arbre , spécialiste de l'installation des écuroducs, membre du conseil d'administrations actif de l'association arboreale" photo="/images/about/members/laurent.jpg" >}}
 
     {{< staff-card name="Charlotte Desthomas" status="Membre du conseil d'administration" description="Description" >}}
 
@@ -59,7 +59,7 @@ Votre aide nous est précieuse, votre adhésion nous permettra de continuer notr
 {{< staff-cards >}}
 
 
-    {{< staff-card name="Béatrice Vavasseur" description="Assure le sauvetage des écureuils" mail="bea.vavasseur@yahoo.fr" photo="/images/association_fichiers/image002.jpg" photo="/images/association/DSCN2884.jpg" >}}
+    {{< staff-card name="Béatrice Vavasseur" description="Assure le sauvetage des écureuils" mail="bea.vavasseur@yahoo.fr" photo="/images/articles/association_fichiers/image002.jpg" photo="/images/about/members/beatrice.jpg" >}}
 
     {{< staff-card name="Sylvie Joinneau" description="Vétérinaire">}}
 

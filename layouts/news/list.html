@@ -1,0 +1,39 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns w-100 w-70-ns center">
+    <section class="pa3 pa4-ns w-100 w-70-ns center  {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+
+    {{ $currentSection := .Section }}
+    {{ $articles := slice }}
+    
+    {{ range .Site.RegularPages }}
+        {{ if or (eq .Section $currentSection) (in .Sections $currentSection) }}
+            {{ $articles = $articles | append . }}
+        {{ end }}
+    {{ end }}
+    
+    {{ $allDates := slice }}
+    {{ range $articles }}
+        {{ $date := .Date.Format "2006" }}
+        {{ $allDates = union $allDates (slice $date) }}
+    {{ end }}
+
+    <section>
+      {{ range $allDates }}
+          {{ $currentDate := . }}
+          <h1>{{ . }}</h1>
+          <ul class="articles__list">
+          {{ range $articles }}
+              {{ $articleDate := .Date.Format "2006" }}
+              {{ if eq $articleDate $currentDate }}
+              <div class="articles__list__entry">
+                {{ .Render "summary" }}
+              </div>
+              {{ end }}
+          {{ end }}
+        </ul>
+      {{ end }}
+    </section>
+  </article>
+{{ end }}

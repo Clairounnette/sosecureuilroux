@@ -7,8 +7,8 @@ categories:
     - article
 description: "Présentation des minéraux"
 images:
-    - "/images/minero/image002.jpg"
-featured_image: "/images/minero/image002.jpg"
+    - "/images/articles/minero/image002.jpg"
+featured_image: "/images/articles/minero/image002.jpg"
 ---
 
 # Les Minéraux
@@ -24,9 +24,9 @@ Mais les écureuils ont une façon plus naturelle de trouver leurs minéraux, su
 
 Ces photos montrent les restes de bois de cerf qu'un écureuil a rongé pour satisfaire ses besoins en minéraux [(voir traces de présence)](tracemin.htm). 
  
-![](/images/tracespre/DSC08104.jpg) 
+![](/images/articles/tracespre/DSC08104.jpg) 
  
-![](/images/tracespre/DSC08106.jpg) 
+![](/images/articles/tracespre/DSC08106.jpg) 
 
 **Tableau comparatif**
 

@@ -2,6 +2,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,900;1,100&display=swap');
 
+:root {
+    --primary-color: #65260aff;
+    --secondary-color: #d0844eff;
+    --text-color: #0c0c0cff;
+    --bg-color: #f8f8f8ff;
+    --dark: #0c0c0cff;
+    --dark-gray: #2a2a2aff;
+    --medium-gray: #6b6b6b;
+    --light-gray: #cacaca;
+    --white: #f8f8f8ff;
+    --night: #0c0c0cff;
+    --seal-brown: #65260aff;
+    --caramel: #d0844eff;
+    --caf-noir: #4e361dff;
+    --seasalt: #f8f8f8ff;
+    --timberwolf: #d0d0d0ff;
+    --jet: #2a2a2aff;
+}
+
+
 /* Global Styles */
 body {
     font-family: 'Roboto', sans-serif;

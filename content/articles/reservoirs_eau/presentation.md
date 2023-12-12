@@ -7,8 +7,8 @@ categories:
     - article
 description: "Présentation d'un résérvoir d'eau"
 images:
-    - "/images/reserveau/raw190.jpg"
-featured_image: "/images/reserveau/raw190.jpg"
+    - "/images/articles/reserveau/raw190.jpg"
+featured_image: "/images/articles/reserveau/raw190.jpg"
 ---
 # Les réservoirs d'eau
 
@@ -59,13 +59,13 @@ Les mares
  - L'inconvénient est qu'ils se bouchent avec les feuilles et la tourbe.
  - Une fois ces différents points repérés, nettoyez et maintenez les opérationnels.
  
- ![](/images/reserveau/DSC09690.jpg) 
+ ![](/images/articles/reserveau/DSC09690.jpg) 
  
  - Retirer les feuilles mortes 
  
- ![](/images/reserveau/DSC09694.jpg) 
+ ![](/images/articles/reserveau/DSC09694.jpg) 
  
  - Ne retirez pas la vase car c'est elle qui maintient le point d'eau étanche.
  
- ![](/images/reserveau/DSC09696.jpg) 
+ ![](/images/articles/reserveau/DSC09696.jpg) 
 
