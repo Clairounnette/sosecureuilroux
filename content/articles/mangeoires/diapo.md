@@ -13,33 +13,33 @@ featured_image: "/images/articles/mangeoir/DSC08163.jpg"
 
 # Diaporama des mangeoires
 
-![](/images/articles/mangeoir/DSC08163.jpg) 
+{{< image src="/images/articles/mangeoir/DSC08163.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC08166.jpg) 
+{{< image src="/images/articles/mangeoir/DSC08166.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/PICT0343.jpg) 
+{{< image src="/images/articles/mangeoir/PICT0343.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC06708.jpg) 
+{{< image src="/images/articles/mangeoir/DSC06708.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/raw49.jpg) 
+{{< image src="/images/articles/mangeoir/raw49.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/raw56.jpg) 
+{{< image src="/images/articles/mangeoir/raw56.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/raw71.jpg) 
+{{< image src="/images/articles/mangeoir/raw71.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/raw92.jpg) 
+{{< image src="/images/articles/mangeoir/raw92.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/raw140.jpg) 
+{{< image src="/images/articles/mangeoir/raw140.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09205.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09205.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09510.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09510.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09534.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09534.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09577.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09577.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09882.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09882.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/PICT0054.jpg) 
+{{< image src="/images/articles/mangeoir/PICT0054.jpg" alt="" >}} 
 

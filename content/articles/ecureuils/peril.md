@@ -33,7 +33,7 @@ Parasites et maladies(#Parasites_et_maladies)
  
  Ci-après sur cette photo, on peut distinguer une sorte de petit grain de riz sous l'oreille, en fait c'est une tique. 
  
- ![](images/presenta/DSC08826+.JPG) 
+ {{< image src="images/presenta/DSC08826+.JPG" alt="" >}} 
  
 ### les parasites internes
  
@@ -90,7 +90,7 @@ L'écureuil est victime :
  
  - Du trafic routier qui chaque année provoque la disparition d'un grand nombre d'écureuils. Cette cause a été augmentée par la rupture des corridors biologiques causée en partie par l'exploitation agricole intensive (remembrement qui provoque la diminution du bocage) et par la pression démographique qui ne cesse d'augmenter.
  
- ![](/images/articles/presenta/STA60002.jpg) 
+ {{< image src="/images/articles/presenta/STA60002.jpg" alt="" >}} 
  
  - De l'exploitation sélective des essences diminuant les espèces d'arbres nourriciers nécessaires à  la mise en œuvre des stocks hivernaux (noisette, noix, etc.)
  
@@ -106,9 +106,9 @@ L'écureuil est victime :
  
  - Rassurez-vous, ces photos ont été prises à  Montréal (Canada) et en Floride (USA).
  
- ![](/images/articles/presenta/view.jpg) 
+ {{< image src="/images/articles/presenta/view.jpg" alt="" >}} 
  
- ![](/images/articles/presenta/DSC06075+.jpg) 
+ {{< image src="/images/articles/presenta/DSC06075+.jpg" alt="" >}} 
  
  - L'écureuil gris est originaire de l'est de l'Amérique du nord.
  
@@ -154,7 +154,7 @@ A l'introduction d'espèces exotiques:
 
 - Cette photo montre un écureuil de Corée en totale liberté! (photo prise en France).
 
-![](/images/articles/presenta/Photo%2520130%5B1%5D.jpg)
+{{< image src="/images/articles/presenta/Photo%2520130%5B1%5D.jpg" alt="" >}}
 
 - Nous savons que le tamias de Sibérie creuse des galeries de très faible diamètre, trop faible pour qu'une martre aille le déloger, de plus l'écureuil de Sibérie vit le jour comme le petit roux, alors que la plupart des prédateurs carnivores comme le renard, le putois etc.. vivent la nuit. Autant vous dire que l'écureuil de Corée a un bel avenir sous nos contrées, et par la même occasion la borréliose de **LYME**. A oui je ne vous en ai pas parlé, notre charmante Bestiole est capable de supporter un nombre incalculable de tiques sur son dos. Les experts parlent de plusieurs centaines (250 sur un même individu), et par conséquent une crainte de la recrudécence de la maladie de **LYME**, qui peut rappelons le être grave chez l'être humain si elle n'est pas traitée à  temps.
 
@@ -168,6 +168,6 @@ A l'introduction d'espèces exotiques:
 
 ### A l'écureuil gris:
 
-![](/images/articles/presenta/DSC06074.jpg)
+{{< image src="/images/articles/presenta/DSC06074.jpg" alt="" >}}
 
 Par bonheur cet animal n'est pas encore arrivé en France [voir lien](http://agriculture.gouv.fr/spip/IMG/pdf/lettre_dsf33.pdf), mais on sait de source sà»re qu'il viendra en France par la frontière italienne (Savoie) et que son arrivée est proche, c'est pourquoi la seule chose à  faire c'est l'observation. cet animal n'est pas encore arrivàƒ© en France[voir lien](http://agriculture.gouv.fr/spip/IMG/pdf/lettre_dsf33.pdf), mais on sait de source sàƒ»re qu'il viendra en France par la frontiàƒ¨re italienne (Savoie) et que son arrivàƒ©e est proche, c'est pourquoi la seule chose àƒ  faire c'est l'observation.

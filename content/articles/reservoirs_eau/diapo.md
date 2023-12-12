@@ -12,36 +12,36 @@ featured_image: "/images/articles/reserveau/raw190.jpg"
 --- 
 # Diaporama des résérvoirs d'eau
 
-![](/images/articles/reserveau/DSC01439.jpg) 
+{{< image src="/images/articles/reserveau/DSC01439.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC01804.jpg) 
+{{< image src="/images/articles/reserveau/DSC01804.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC07638.jpg) 
+{{< image src="/images/articles/reserveau/DSC07638.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC07677.jpg) 
+{{< image src="/images/articles/reserveau/DSC07677.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC07678.jpg) 
+{{< image src="/images/articles/reserveau/DSC07678.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC07679.jpg) 
+{{< image src="/images/articles/reserveau/DSC07679.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC07732.jpg) 
+{{< image src="/images/articles/reserveau/DSC07732.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC03391.jpg) 
+{{< image src="/images/articles/reserveau/DSC03391.jpg" alt="" >}} 
 
-![](images/raw191.JPG) 
+{{< image src="images/raw191.JPG" alt="" >}} 
 
-![](images/raw190.JPG) 
+{{< image src="images/raw190.JPG" alt="" >}} 
 
-![](/images/articles/reserveau/DSC08160.jpg) 
+{{< image src="/images/articles/reserveau/DSC08160.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC08161.jpg) 
+{{< image src="/images/articles/reserveau/DSC08161.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC08778.jpg) 
+{{< image src="/images/articles/reserveau/DSC08778.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC08783.jpg) 
+{{< image src="/images/articles/reserveau/DSC08783.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC09152.jpg) 
+{{< image src="/images/articles/reserveau/DSC09152.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC09192.jpg) 
+{{< image src="/images/articles/reserveau/DSC09192.jpg" alt="" >}} 
 
-![](/images/articles/reserveau/DSC09564.jpg) 
+{{< image src="/images/articles/reserveau/DSC09564.jpg" alt="" >}} 

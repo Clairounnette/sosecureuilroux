@@ -22,39 +22,39 @@ Si lors de vos escapes vous avez l'occasion de prendre en photo une de ces nombr
 
 Région de Miami 
 
-![](/images/articles/presenta/DSC06070+.jpg) 
+{{< image src="/images/articles/presenta/DSC06070+.jpg" alt="" >}} 
 
 Région de New York 
 
-![](/images/articles/presenta/P1010249.jpg) 
+{{< image src="/images/articles/presenta/P1010249.jpg" alt="" >}} 
 
 
-![](monde/2009-12-22%20USA%20New-York%20S%20(100).JPG) 
+{{< image src="monde/2009-12-22%20USA%20New-York%20S%20(100).JPG" alt="" >}} 
 
-![](monde/2009-12-22%20USA%20New-York%20S%20(103).JPG) 
+{{< image src="monde/2009-12-22%20USA%20New-York%20S%20(103).JPG" alt="" >}} 
 
-![](monde/2009-12-22%20USA%20New-York%20S%20(106).JPG) 
+{{< image src="monde/2009-12-22%20USA%20New-York%20S%20(106).JPG" alt="" >}} 
 
-![](monde/2009-12-22%20USA%20New-York%20S%20(107).JPG) 
+{{< image src="monde/2009-12-22%20USA%20New-York%20S%20(107).JPG" alt="" >}} 
 
-![](monde/2009-12-22%20USA%20New-York%20S%20(108).JPG) 
+{{< image src="monde/2009-12-22%20USA%20New-York%20S%20(108).JPG" alt="" >}} 
 
 
 ## L'écureuil de Corée ou de siberie 
 
-![](/images/articles/presenta/Photo%2520130%5B1%5D.jpg) 
+{{< image src="/images/articles/presenta/Photo%2520130%5B1%5D.jpg" alt="" >}} 
 
 Région de Yosemite Park 
 
 CHIPMUNKS ou tamia d'Amérique du nord 
 
-![](/images/articles/autres/2008-08-06%20USA%20Lee%20Vining%20-%20Yosemite%20-%20Mariposa%20149.jpg) 
+{{< image src="/images/articles/autres/2008-08-06%20USA%20Lee%20Vining%20-%20Yosemite%20-%20Mariposa%20149.jpg" alt="" >}} 
 
 
 ## L'écureuil d'Afrique du sud 
 
 (région du Kruger parc) 
-![](/images/articles/presenta/DSC01669.jpg) 
+{{< image src="/images/articles/presenta/DSC01669.jpg" alt="" >}} 
 
 *[é]* ] [ [ ]D.Baillie 
 
@@ -67,7 +67,7 @@ CHIPMUNKS ou tamia d'Amérique du nord
 ## L'écureuil d'Afrique du nord 
 
 (Maroc, Algérie, Tunisie, Libye, et Canarie) 
-![](/images/articles/presenta/P1000604.jpg) 
+{{< image src="/images/articles/presenta/P1000604.jpg" alt="" >}} 
 
 écureuil de Barbarie 
 
@@ -81,9 +81,9 @@ Appelé aussi:
 ### Carr géographique Range-Kelli. 
 
 (Nord et l'Amérique centrale, du sud du Chiapas, du Mexique au centre du Panama) 
-![](images/presenta/HPIM1546.JPG) 
+{{< image src="images/presenta/HPIM1546.JPG" alt="" >}} 
 
-![](images/presenta/HPIM1548.JPG) 
+{{< image src="images/presenta/HPIM1548.JPG" alt="" >}} 
 
 
 

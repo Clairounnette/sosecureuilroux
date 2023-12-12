@@ -32,17 +32,17 @@ Malgré les croyances, ce n'est pas la période la plus difficile pour un écure
 
 - Ici cet écureuil n'a pas hésité une seconde é grimper dans une mangeoire d'oiseau pour satisfaire sa gourmandise de graines de tournesol. 
 
-![](/images/articles/presenta/DSC08002.jpg) 
+{{< image src="/images/articles/presenta/DSC08002.jpg" alt="" >}} 
 
 -  Les bourgeons constituent un apport nutritionnel non négligeable pour les écureuils pendant la mauvaise saison. 
 
-![](/images/articles/presenta/DSC09229.jpg) 
+{{< image src="/images/articles/presenta/DSC09229.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09256.jpg) 
+{{< image src="/images/articles/presenta/DSC09256.jpg" alt="" >}} 
 
 - A la période froide, on peut aussi leur venir en aide en leur présentant quelques rondelles de carotte. Ils adorent éa et c'est un trés bon apport nutritionnel. 
 
-![](/images/articles/presenta/PICT0052.jpg) 
+{{< image src="/images/articles/presenta/PICT0052.jpg" alt="" >}} 
 
 - Les écureuils qui ont la chance de vivre proche de parcelle d'épicéas se font  de véritables festins de cénes, c'est son péché mignon. Il peut en manger plusieurs dizaines par jour] [(voir é épicéa)(presépic.htm). 
 
@@ -56,7 +56,7 @@ L'écureuil ne peut s'attaquer principalement qu'au nid de petit oiseau comme l
 
 -  les bourgeons, les fleurs, et les fruits du merisier le fait littéralement craquer 
 
-![](/images/articles/presenta/raw172.jpg)
+{{< image src="/images/articles/presenta/raw172.jpg" alt="" >}}
 
 
 -  Cette photo montre ce qui semblerait étre un nid, mais en fait céest un écureuil qui séest mis sur une boule de graine de fréne, tel un singe sur un régime de bananes. 
@@ -65,7 +65,7 @@ L'écureuil ne peut s'attaquer principalement qu'au nid de petit oiseau comme l
 
 - Périodes oé les femelles sont en pleine gestation, et continuent é sevrer les petits de la premiére portée. A cette saison la forét néest pas encore généreuse, et ces  arbres sont une manne providentielle pour nos jeunes protégés. 
 
-![](/images/articles/presenta/DSC06727+.jpg)
+{{< image src="/images/articles/presenta/DSC06727+.jpg" alt="" >}}
 
 -  Les escargots et les limaces font partie de sa nourriture é cette saison dans l'attente de voir enfin les jolis fruits de tous ces arbres pointer leur nez. Vivement l'été tiens ! 
 - Les écureuils ont encore é disposition les cénes déépicéas en cette saison.] [(voir é épicéa)(presépic.htm). 
@@ -73,11 +73,11 @@ L'écureuil ne peut s'attaquer principalement qu'au nid de petit oiseau comme l
 ## L'été 
 Ouf! enfin l'été (fin juin), la saison commence a étre un peu moins dure, ici une pomme, lé-bas une cerise, bien sér, éa c'est pour ceux qui ont choisi de vivre proche des hommes, mais le risque c'est bien de se prendre un coup de carabine, car pour une pomme ou une cerise, il y en a qui se sont vue condamnés é mort pour moins que éa! Mais bon, en forét c'est pas mieux, la vie reste dure! Les fruits (glands, noisettes, faines etc..) commenceront é nous nourrir que fin juillet, alors que nous sommes toujours affamés é cause de la seconde portée qui ne va pas tarder é arriver! 
 
-![](/images/articles/presenta/P7012376.jpg) 
+{{< image src="/images/articles/presenta/P7012376.jpg" alt="" >}} 
 
 - Ici, cet écureuil commence déjé é s'attaquer aux noisettes é peine sorties (encore vertes). Certains disent que c'est pour ne pas en laisser aux voisins. Alors dés qu'elles pointent le bout de leur nez, il commence é les boulotter. Personnellement, je pense plutét que c'est une période oé les noisettes tombent é point nommé, et comme c'est leur péché mignon, ils s'y attaquent dés que le travail de décortication en vaut la peine (par rapport é la taille de l'amande), et tout ceci bien entendu sans arriére pensée pour les voisins. 
 
-![](/images/articles/presenta/P1020116.jpg) 
+{{< image src="/images/articles/presenta/P1020116.jpg" alt="" >}} 
 
 ## A l'automne 
   
@@ -87,5 +87,5 @@ Ouf! enfin l'été (fin juin), la saison commence a étre un peu moins dure, ici
 - Les champignons, méme les plus toxiques comme l'amanite phalloéde, font partie de son alimentation. 
 -  Les escargots et les limaces. 
 
-![](/images/articles/presenta/DSC08018.jpg) 
+{{< image src="/images/articles/presenta/DSC08018.jpg" alt="" >}} 
 

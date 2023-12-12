@@ -17,7 +17,7 @@ featured_image: "/images/articles/mangeoir/DSC09510.jpg"
 ## Construction 
 Cette mangeoire est simple de construction. Pas de prise de tête avec des mesures infernales. Il suffit de suivre les étapes 
 
-![](/images/articles/mangeoir/DSC09095.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09095.jpg" alt="" >}} 
 
 Pour cet exemple un triangle isocèle de 30cm de côté a été exécuté. Cette mangeoire peut contenir environ 3 à 4 kilos de nourriture. 
 
@@ -25,11 +25,11 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Effectuer un triangle isocèle 
 
-![](/images/articles/mangeoir/DSC09000.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09000.jpg" alt="" >}} 
 
 -  Récupérer une planche de contreplaqué plus longue que le côté du triangle (30 cm pour cet exemple)
 
-![](/images/articles/mangeoir/DSC09002.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09002.jpg" alt="" >}} 
 
 - Découper une planche en deux. Ce qui correspond à la largeur de cette planche correspondra à la longueur du toit, soit pour cet exemple 22cm de long.
 
@@ -37,51 +37,51 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 -  Nota: si votre planche présente quelques défauts (arrachement, coup, etc), placer le côté le moins beau à l'extérieur
 
-![](/images/articles/mangeoir/DSC09009.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09009.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09010.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09010.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09011.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09011.jpg" alt="" >}} 
 
 - Placer le triangle bord à bord d'une planche de toiture et tracer l'épaisseur et la longueur du triangle.
 
-![](/images/articles/mangeoir/DSC09018.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09018.jpg" alt="" >}} 
 
 - Faire quelques points au crayon à distance régulière (ici 4) dans le milieu du tracé de l'épaisseur
 
 - Découper l'excèdent de la toiture (ici la partie sous la main)
 
-![](/images/articles/mangeoir/DSC09019.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09019.jpg" alt="" >}} 
 
 - Percer avec un petit foret (1 mm de diamètre environ) les 4 points
 
-![](/images/articles/mangeoir/DSC09020.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09020.jpg" alt="" >}} 
 
 - Mettre de la colle à bois dans la même zone et visser le triangle avec des vis à bois au travers des trous de perçage  
 
-![](/images/articles/mangeoir/DSC09021.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09021.jpg" alt="" >}} 
 
 - Placer la seconde planche bien à plat et bord à bord avec le triangle
 
-![](/images/articles/mangeoir/DSC09022.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09022.jpg" alt="" >}} 
 
 - [ Relever la longueur au crayon] 
 
-![](/images/articles/mangeoir/DSC09027.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09027.jpg" alt="" >}} 
 
 - Découper l'excèdent 
 
-![](/images/articles/mangeoir/DSC09029.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09029.jpg" alt="" >}} 
 
 - Placer la partie assemblée sur la planche (bord à bord) et tracer le pourtour afin de relever les épaisseurs
 
-![](/images/articles/mangeoir/DSC09034.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09034.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09035.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09035.jpg" alt="" >}} 
 
 - Faire quelques points au crayon à distance régulière dans le milieu du tracé de l'épaisseur 
 
-![](/images/articles/mangeoir/DSC09036.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09036.jpg" alt="" >}} 
 
 - Percer avec le foret de 1mm 
 
@@ -89,41 +89,41 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Repositionner la planche et visser 
 
-![](/images/articles/mangeoir/DSC09038.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09038.jpg" alt="" >}} 
 
 - Positionner l'ensemble bord a bord sur une planche pour réaliser le fond (l'idéal est une planche en aglo-marine ou contreplaqué marine)
 
-![](/images/articles/mangeoir/DSC09039.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09039.jpg" alt="" >}} 
 
 -  Positionner une règle sur le côté à découper et reporter la largueur de la boite sur l'avant de la planche
 
-![](/images/articles/mangeoir/DSC09041.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09041.jpg" alt="" >}} 
 
 - Relever la largeur arrière de la boite 
 
-![](/images/articles/mangeoir/DSC09042.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09042.jpg" alt="" >}} 
 
 -  Relever la partie avant de la boite côte droit
 
-![](/images/articles/mangeoir/DSC09043.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09043.jpg" alt="" >}} 
 
 - Et côte gauche 
 
-![](/images/articles/mangeoir/DSC09044.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09044.jpg" alt="" >}} 
 
 - à l'aide de la règle faire rejoindre les points relevés par une ligne droite
 
-![](/images/articles/mangeoir/DSC09045.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09045.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09046.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09046.jpg" alt="" >}} 
 
 - (quelque soit la taille de votre boite) repérer la ligne représentant l'avant de la boite et rajouter 10cm
 
- ![](/images/articles/mangeoir/DSC09047.jpg) 
+ {{< image src="/images/articles/mangeoir/DSC09047.jpg" alt="" >}} 
 
 - ici cela représente la largeur de ma règle que j'ai reporté 
 
-![](/images/articles/mangeoir/DSC09048.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09048.jpg" alt="" >}} 
 
 - Replacer votre boite bord à bord avec la planche du fond et tracer l'épaisseur arrière du triangle
 
@@ -133,37 +133,37 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Percer les points avec le foret de 1mm
 
-![](/images/articles/mangeoir/DSC09049.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09049.jpg" alt="" >}} 
 
 - Mettre de la colle 
 
-![](/images/articles/mangeoir/DSC09050.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09050.jpg" alt="" >}} 
 
 - Mettre la boite en place bord à bord avec le plancher et visser le triangle par dessous 
 
 - Viser les 2 côtés sur le bord 
 
-![](/images/articles/mangeoir/DSC09052.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09052.jpg" alt="" >}} 
 
 - Mettre un tasseau sur l'avant de la boite 
 
-![](/images/articles/mangeoir/DSC09056.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09056.jpg" alt="" >}} 
 
 - Relever les 2 angles de 45° (droit et gauche) et faite la découpe suivant les traits 
 
-![](/images/articles/mangeoir/DSC09057.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09057.jpg" alt="" >}} 
 
 -  Placer le tasseau à l'intérieur de la boite à environ 3 cm
 
-![](/images/articles/mangeoir/DSC09058.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09058.jpg" alt="" >}} 
 
 - Relever la position du tasseau 
 
-![](/images/articles/mangeoir/DSC09062.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09062.jpg" alt="" >}} 
 
 - Relever l'épaisseur du tasseau (ici 3cm) 
 
-![](/images/articles/mangeoir/DSC09059.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09059.jpg" alt="" >}} 
 
 -  Rajouter la moitié de l'épaisseur du tasseau à vos 10 cm de terrasse + 3 cm de renfoncement (soit pour cet exemple 10+3+1.5=14.5cm)
 
@@ -171,45 +171,45 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Tirer un trait et percer des trous de 1mm à distance régulière sur la ligne 
 
-![](/images/articles/mangeoir/DSC09060.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09060.jpg" alt="" >}} 
 
 - Mettre de la colle. Replacer le tasseau le long de trait relevé à 3cm
 
 - Viser par le dessous 
 
-![](/images/articles/mangeoir/DSC09061.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09061.jpg" alt="" >}} 
 
 - Placer le triangle sur un morceau de film goudronné (matériau utilisé pour l'étanchéité des toitures), à défaut un gros morceau de film plastique ou toile cirée
 
 - Rabattre le tout et fixer avec des agrafes, à défaut des petits clous à têtes larges
 
-![](/images/articles/mangeoir/DSC09055.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09055.jpg" alt="" >}} 
 
 - Placer un morceau de film sur la toiture 
 
 - Rabattre le tout et fixer avec des agrafes
 
-![](/images/articles/mangeoir/DSC09063.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09063.jpg" alt="" >}} 
 
 - Effectuer un emballage type paquet cadeau
 
-![](/images/articles/mangeoir/DSC09065.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09065.jpg" alt="" >}} 
 
 - Effectuer la protection du bord avant
 
-![](/images/articles/mangeoir/DSC09066.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09066.jpg" alt="" >}} 
 
 - La durée de vie de la mangeoire dépendra du soin apporté à l'emballage 
 
-![](/images/articles/mangeoir/DSC09068.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09068.jpg" alt="" >}} 
 
 - Une bonne protection contre l'humidité favorisera la conservation de la nourriture
 
-![](/images/articles/mangeoir/DSC09069.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09069.jpg" alt="" >}} 
 
 - Confirmer l'enfoncement des agrafes 
 
-![](/images/articles/mangeoir/DSC09081.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09081.jpg" alt="" >}} 
 
 - Prendre une latte de bois 
 
@@ -217,7 +217,7 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Relever l'épaisseur 
 
-![](/images/articles/mangeoir/DSC09070.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09070.jpg" alt="" >}} 
 
 - Relever la longueur avec la planche 
 
@@ -225,9 +225,9 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Répéter ces opérations avec le côte gauche 
 
-![](/images/articles/mangeoir/DSC09071.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09071.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09072.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09072.jpg" alt="" >}} 
 
 - Relever l'épaisseur avec le bord avant 
 
@@ -235,7 +235,7 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - [ Couper la latte à la longueur relevée] 
 
-![](/images/articles/mangeoir/DSC09073.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09073.jpg" alt="" >}} 
 
 - Faire des points à distance régulière au milieu du tracé 
 
@@ -247,67 +247,67 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 - Répéter ces opérations avec les 2 côtes 
 
-![](/images/articles/mangeoir/DSC09074.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09074.jpg" alt="" >}} 
 
 - Passer un coup de râpe à bois sur la planche pour qu'elle soit bien "flush" avec les 3 lattes 
 
-![](/images/articles/mangeoir/DSC09077.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09077.jpg" alt="" >}} 
 
 - Afin d'évacuer l'eau, percer des trous d'environ 10mm à distance régulière tout au tour de la "terrasse" 
 
-![](/images/articles/mangeoir/DSC09078.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09078.jpg" alt="" >}} 
 
 - Afin que l'eau ne puisse pas rentrer dans la mangeoire, mettre du silicone sur les jointures du tasseau 
 
-![](/images/articles/mangeoir/DSC09079.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09079.jpg" alt="" >}} 
 
 - Pour faire des pontés d'accroche, Prendre 4 colliers de tuyauterie d'eau diamètre 12 mm minimum 
 
 - Retirer les vis 
 
-![](/images/articles/mangeoir/DSC09080.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09080.jpg" alt="" >}} 
 
 - Visser 4 parties de collier dans les coins inférieures de la planche du fond, et les 4 autres sur le triangle 
 
-![](/images/articles/mangeoir/DSC09082.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09082.jpg" alt="" >}} 
 
 - Récupérer de l'écorce de chêne sur des bûches de chauffage 
 
 - Placer les morceaux sur le toit et couper à longueur  
 
-![](/images/articles/mangeoir/DSC09085.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09085.jpg" alt="" >}} 
 
 - Mettre de la colle silicone sur la face à coller 
 
 - Mettre en place et visser 
 
-![](/images/articles/mangeoir/DSC09087.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09087.jpg" alt="" >}} 
 
 - Découper un morceau en respectant les angles à 45° 
 
 - Coller et visser 
 
-![](/images/articles/mangeoir/DSC09088.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09088.jpg" alt="" >}} 
 
 - Idem pour le bord avant 
 
 - Nota: Pour les planches à faibles épaisseurs utiliser des vis à placoplâtre 
 
-![](/images/articles/mangeoir/DSC09089.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09089.jpg" alt="" >}} 
 
 - Inutile de vous servir de scie pour déterminer les largeur de plaque ,casser suivant les ligne d'écorce (c'est plus joli) 
 
-![](/images/articles/mangeoir/DSC09090.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09090.jpg" alt="" >}} 
 
 - Coller et visser 
 
-![](/images/articles/mangeoir/DSC09091.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09091.jpg" alt="" >}} 
 
 - Idem pour les petits côtés 
 
-![](/images/articles/mangeoir/DSC09092.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09092.jpg" alt="" >}} 
 
-![](/images/articles/mangeoir/DSC09093.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09093.jpg" alt="" >}} 
 
 -  Afin de vérifier qu'aucune partie pointue ne dépasse, et ne puisse blesser les écureuils
 
@@ -315,7 +315,7 @@ Nota: Pour commencer vous pouvez faire un triangle de 25 cm ou 20 cm de côté (
 
 -  Voila c'est fini, il ne reste plus qu'a trouver un joli arbre et y placer la mangeoire (manginst.htm). 
 
-![](/images/articles/mangeoir/DSC09095.jpg) 
+{{< image src="/images/articles/mangeoir/DSC09095.jpg" alt="" >}} 
 
 ## Points importants 
   

@@ -13,13 +13,13 @@ L’écuroduc est un corridor biologique artificiel (cordes, branches, pont susp
 - A une extrémité, un cordage est fixé directement à un arbre à l’aide d’un nœud demi clé, sécurisé par un deuxième cordage (nœud prussik).
 - A l’autre extrémité, le cordage est fixé au deuxième arbre au travers d’une poulie et d’un lest qui ont pour fonction de contrôler la tension du dispositif, de compenser le mouvement des arbres, et les variations de longueur du cordage dues au climat (humidité, chaleur), le tout étant sécurisé par des cordages supplémentaires (nœud prussik). Ce dispositif permet à la corde de garder une tension constante quels que soient les effets du temps et quels que soient les types de cordage utilisés, tout en restant simple, fiable et peu coûteux.
 
-![](/images/ecuroducs/ecuroduc.svg)
+{{< image src="/images/ecuroducs/ecuroduc.svg" alt="" >}}
 
 ## Les noeuds utilisés
 ### Noeud de prusik 
 Le nœud de prussik est un nœud autobloquant qui permet de sécuriser le cordage de l’écuroduc, la poulie et aussi le lest.
 
-![Image of a prussik knot. Credits goes to https://www.animatedknots.com/](/images/ecuroducs/noeuds/prusik.jpg)
+{{< image src="/images/ecuroducs/noeuds/prusik.jpg" alt="Image of a prussik knot. Credits goes to https://www.animatedknots.com/" >}}
 
 Pour plus d'informations :
 
@@ -29,7 +29,7 @@ Pour plus d'informations :
 
 ### Noeud demi clé
 Le nœud demi-clé permet de fixer l’écuroduc directement à l’arbre, sans tour mort autour du tronc, il permet la croissance de l’arbre en toute sécurité, car il n’étrangle pas.
-![Image of a prussik knot. Credits goes to https://www.animatedknots.com/](/images/ecuroducs/noeuds/twohalfhitches.jpg)
+{{< image src="/images/ecuroducs/noeuds/twohalfhitches.jpg" alt="Image of a prussik knot. Credits goes to https://www.animatedknots.com/" >}}
 
 Pour plus d'informations :
 

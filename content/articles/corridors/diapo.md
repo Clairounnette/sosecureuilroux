@@ -13,11 +13,11 @@ featured_image: "/images/articles/coridor/PICT0127.jpg"
 
 # Diaporama des corridors 
 
-![](/images/articles/coridor/PICT0127.jpg) 
+{{< image src="/images/articles/coridor/PICT0127.jpg" alt="" >}} 
 
-![](/images/articles/coridor/PICT0141.jpg) 
+{{< image src="/images/articles/coridor/PICT0141.jpg" alt="" >}} 
 
-![](/images/articles/coridor/raw204.jpg) 
+{{< image src="/images/articles/coridor/raw204.jpg" alt="" >}} 
 
-![](/images/articles/coridor/PICT0075.jpg) 
+{{< image src="/images/articles/coridor/PICT0075.jpg" alt="" >}} 
  

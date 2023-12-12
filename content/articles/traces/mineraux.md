@@ -21,23 +21,23 @@ featured_image: "/images/articles/tracespre/DSC09304.jpg"
 - Bois de cerf 
  Ces photos montrent les restes de bois de cerf qu'un écureuil à ronger pour satisfaire ses besoins en  minéraux, ce reste de bois de cerf à été trouvé dans une parcelle forestière d'épicéas [(voir § les minéraux)](mineraux.htm). 
  
- ![](/images/articles/tracespre/DSC08112.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08112.jpg" alt="" >}} 
  
- ![](/images/articles/tracespre/DSC08103.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08103.jpg" alt="" >}} 
  
- ![](/images/articles/tracespre/DSC08104.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08104.jpg" alt="" >}} 
  
- ![](/images/articles/tracespre/DSC08106.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08106.jpg" alt="" >}} 
  
- ![](/images/articles/tracespre/DSC08108.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08108.jpg" alt="" >}} 
  
 
 - Os 
  ici un ossement de grand mammifère, toujours dans une parcelle d'épicéas. 
  
- ![](/images/articles/tracespre/DSC08984.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08984.jpg" alt="" >}} 
  
- ![](/images/articles/tracespre/DSC08986.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08986.jpg" alt="" >}} 
  
 
 - L'écorce 
@@ -46,5 +46,5 @@ featured_image: "/images/articles/tracespre/DSC09304.jpg"
  
  - Pas de doute à cet endroit il y a des écureuils. 
  
- ![](/images/articles/tracespre/DSC08848.jpg) 
+ {{< image src="/images/articles/tracespre/DSC08848.jpg" alt="" >}} 
  

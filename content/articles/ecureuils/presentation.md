@@ -13,7 +13,7 @@ featured_image: "/images/articles/presenta/raw123%20comp.jpg"
 
 # Présentation de l'écureuil roux
 
-![](/images/articles/presenta/raw123%20comp.jpg)
+{{< image src="/images/articles/presenta/raw123%20comp.jpg" alt="" >}}
 
 
 ## Statut 
@@ -54,7 +54,7 @@ L'écureuil d'Eurasie est appelé communément écureuil roux d'Europe.
   - [Rodentia](http://www.termsciences.fr/-/Index/Rechercher/Classique/Naviguer/Resultats/?idt=TE.6098&lng=fr&aTree=selectionner)
   - [Sciurus Vulgaris](http://fr.wikipedia.org/wiki/Sciurus_vulgaris)
 
-![](/images/articles/presenta/DSC08751+.jpg) 
+{{< image src="/images/articles/presenta/DSC08751+.jpg" alt="" >}} 
 
 Le nom Écureuil est originaire: 
 
@@ -87,7 +87,7 @@ L'écureuil roux est arboricole et vit le jour. IL est facilement reconnaissable
 
 Contrairement aux idées reçues l'écureuil roux n'hiberne pas, mais il est vrai que ses différentes activités se limitent à quelques heures en hiver. 
 
-![](/images/articles/presenta/DSC03249.jpg) 
+{{< image src="/images/articles/presenta/DSC03249.jpg" alt="" >}} 
 
 L'espérance de vie du petit roux est d'environ 5 à 7 ans dans son milieu naturel. 
 
@@ -111,7 +111,7 @@ Mais pourtant dans certains cas, ce sont les individus de la première portée q
 
 lorsque que la femelle est amené à devoir quitté son nid, alors elle déplace ces petits en les attrapent par la gueule. 
 
-![](P1070607.JPG) 
+{{< image src="P1070607.JPG" alt="" >}} 
 
-![](P1070604.JPG) 
+{{< image src="P1070604.JPG" alt="" >}} 
 

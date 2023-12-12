@@ -20,35 +20,35 @@ Quand les écureuils mangent une noix, ils la prennent de maniére é présenter
 
  Notre ami nous présente son travail.
 
-![](/images/articles/tracespre/DSC09618.jpg)
+{{< image src="/images/articles/tracespre/DSC09618.jpg" alt="" >}}
 
-![](/images/articles/tracespre/DSC09618+.jpg)
+{{< image src="/images/articles/tracespre/DSC09618+.jpg" alt="" >}}
 
 Il faut bien regarder au niveau de la pointe pour y distinguer 2 demis sillons.
 
 Les photos ci-dessous montrent les traces laissées sur les noix.
 
-![](/images/articles/tracespre/image021.jpg)
+{{< image src="/images/articles/tracespre/image021.jpg" alt="" >}}
 
  On distingue parfaitement les 2 sillons faits sur la noix juste avant son ouverture. 
 
-![](/images/articles/tracespre/image023.jpg)
+{{< image src="/images/articles/tracespre/image023.jpg" alt="" >}}
 
 Ici on distingue parfaitement le demi sillon sur la pointe avec un décollement parfait de la  demie coquille.
 
-![](/images/articles/tracespre/image025.jpg)
+{{< image src="/images/articles/tracespre/image025.jpg" alt="" >}}
 
  Ici la photo montre une noix trés dure. Léécureuil néayant pas pu léouvrir par la méthode traditionnelle, il l'a alors attaquée par léautre extrémité et effectué une découpe comme si on avait utilisé une tronéonneuse (du beau travail !).
 
-![](/images/articles/tracespre/image027.jpg)
+{{< image src="/images/articles/tracespre/image027.jpg" alt="" >}}
 
  On remarque trés clairement les traces de dents extrémement efficaces mais qui toutefois ne sont pas venus é bout de cette noix. Les écureuils n'hésitent pas é découper en deux les noix pour les ouvrir, toujours en suivant la jointure. 
 
-![](/images/articles/tracespre/image029.jpg)
+{{< image src="/images/articles/tracespre/image029.jpg" alt="" >}}
 
 Cette noix en forme déhuétre a posé un probléme pour notre ami, céest sans doute pourquoi il léa abandonnée.
 
-![](images/tracespre/image032+.JPG)[ ]
+{{< image src="images/tracespre/image032+.JPG" alt="" >}}[ ]
 
 Ici on distingue parfaitement la trace de bec laissé par un pic épeiche pour ouvrir cette noix.
 
@@ -59,43 +59,43 @@ Quand les écureuils mangent une noisette, ils procédent de la méme maniére q
 
 les photos ci-dessous montrent les traces laissées sur les noisettes. 
 
-![](/images/articles/tracespre/image036.jpg)
+{{< image src="/images/articles/tracespre/image036.jpg" alt="" >}}
 
 On distingue parfaitement les 2 sillons faits sur la noisette, perpendiculaires é léaréte.
 
-![](/images/articles/tracespre/image034.jpg)
+{{< image src="/images/articles/tracespre/image034.jpg" alt="" >}}
 
  Déautres noisettes montrant le sillon bien perpendiculaire é léaréte. 
 
-![](/images/articles/tracespre/image038.jpg)
+{{< image src="/images/articles/tracespre/image038.jpg" alt="" >}}
 
  Une fois le sillon fait, la noisette est littéralement arrachée, la cassure est franche et nette.
 
-![](/images/articles/tracespre/image040.jpg)
+{{< image src="/images/articles/tracespre/image040.jpg" alt="" >}}
 
  Trace infaillible. Céest bien léoeuvre déun écureuil !
 
-![](/images/articles/tracespre/image042.jpg)
+{{< image src="/images/articles/tracespre/image042.jpg" alt="" >}}
 
  Ici les bords sont lisses dessinant un large cercle. Aucune trace de sillon et la pointe est intacte, céest le travail déun petit rongeur loir ou campagnol. 
 
-![](/images/articles/tracespre/image044.jpg)
+{{< image src="/images/articles/tracespre/image044.jpg" alt="" >}}
 
  Méme photo sous un autre angle.
 
  Sur les photos suivantes, on distingue parfaitement des petits trous, sorte déimpact. Céest lééuvre déun oiseau, certainement le pic épeiche ou la sitelle torchepot. 
 
-![](/images/articles/tracespre/image046.jpg)
+{{< image src="/images/articles/tracespre/image046.jpg" alt="" >}}
 
-![](/images/articles/tracespre/DSC00290.jpg)
+{{< image src="/images/articles/tracespre/DSC00290.jpg" alt="" >}}
 
 Pic épeiche
 
-![](/images/articles/tracespre/image048.jpg)
+{{< image src="/images/articles/tracespre/image048.jpg" alt="" >}}
 
 Les bords sont déchiquetés, plein déimpacts sur la noisette, ce néest pas un écureuil qui a fait cela.
 
-![](/images/articles/tracenou/tracen2.jpg)
+{{< image src="/images/articles/tracenou/tracen2.jpg" alt="" >}}
 
 Sitelle torchepot
 

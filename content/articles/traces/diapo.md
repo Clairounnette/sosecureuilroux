@@ -13,8 +13,8 @@ featured_image: "/images/articles/tracespre/DSC08720.jpg"
 
 # Diaporama des traces
 
-![](/images/articles/tracespre/DSC08720.jpg) 
+{{< image src="/images/articles/tracespre/DSC08720.jpg" alt="" >}} 
 
-![](/images/articles/tracespre/DSC09560.jpg) 
+{{< image src="/images/articles/tracespre/DSC09560.jpg" alt="" >}} 
 
-![](/images/articles/tracespre/DSC09611.jpg) 
+{{< image src="/images/articles/tracespre/DSC09611.jpg" alt="" >}} 

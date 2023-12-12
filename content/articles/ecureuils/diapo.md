@@ -13,38 +13,38 @@ featured_image: "/images/articles/presenta/DSC03404.jpg"
 
 # Diaporama des écureuils
 
-![](/images/articles/presenta/DSC03404.jpg) 
+{{< image src="/images/articles/presenta/DSC03404.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC03293.jpg) 
+{{< image src="/images/articles/presenta/DSC03293.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC08132.jpg) 
+{{< image src="/images/articles/presenta/DSC08132.jpg" alt="" >}} 
 
-![](/images/articles/presenta/raw68.jpg) 
+{{< image src="/images/articles/presenta/raw68.jpg" alt="" >}} 
 
-![](/images/articles/presenta/raw170.jpg) 
+{{< image src="/images/articles/presenta/raw170.jpg" alt="" >}} 
 
-![](/images/articles/presenta/raw198.jpg) 
+{{< image src="/images/articles/presenta/raw198.jpg" alt="" >}} 
 
-![](/images/articles/presenta/raw202.jpg) 
+{{< image src="/images/articles/presenta/raw202.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09115.jpg) 
+{{< image src="/images/articles/presenta/DSC09115.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09119.jpg) 
+{{< image src="/images/articles/presenta/DSC09119.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09120.jpg) 
+{{< image src="/images/articles/presenta/DSC09120.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09140.jpg) 
+{{< image src="/images/articles/presenta/DSC09140.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09164.jpg) 
+{{< image src="/images/articles/presenta/DSC09164.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09308.jpg) 
+{{< image src="/images/articles/presenta/DSC09308.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09617.jpg) 
+{{< image src="/images/articles/presenta/DSC09617.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09618.jpg) 
+{{< image src="/images/articles/presenta/DSC09618.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09619.jpg) 
+{{< image src="/images/articles/presenta/DSC09619.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09627.jpg) 
+{{< image src="/images/articles/presenta/DSC09627.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC09922.jpg) 
+{{< image src="/images/articles/presenta/DSC09922.jpg" alt="" >}} 

@@ -59,13 +59,13 @@ Les mares
  - L'inconvénient est qu'ils se bouchent avec les feuilles et la tourbe.
  - Une fois ces différents points repérés, nettoyez et maintenez les opérationnels.
  
- ![](/images/articles/reserveau/DSC09690.jpg) 
+ {{< image src="/images/articles/reserveau/DSC09690.jpg" alt="" >}} 
  
  - Retirer les feuilles mortes 
  
- ![](/images/articles/reserveau/DSC09694.jpg) 
+ {{< image src="/images/articles/reserveau/DSC09694.jpg" alt="" >}} 
  
  - Ne retirez pas la vase car c'est elle qui maintient le point d'eau étanche.
  
- ![](/images/articles/reserveau/DSC09696.jpg) 
+ {{< image src="/images/articles/reserveau/DSC09696.jpg" alt="" >}} 
 

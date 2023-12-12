@@ -24,9 +24,9 @@ Mais les écureuils ont une façon plus naturelle de trouver leurs minéraux, su
 
 Ces photos montrent les restes de bois de cerf qu'un écureuil a rongé pour satisfaire ses besoins en minéraux [(voir traces de présence)](tracemin.htm). 
  
-![](/images/articles/tracespre/DSC08104.jpg) 
+{{< image src="/images/articles/tracespre/DSC08104.jpg" alt="" >}} 
  
-![](/images/articles/tracespre/DSC08106.jpg) 
+{{< image src="/images/articles/tracespre/DSC08106.jpg" alt="" >}} 
 
 **Tableau comparatif**
 

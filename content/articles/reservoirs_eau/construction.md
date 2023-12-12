@@ -24,70 +24,70 @@ Les outillages nécessaires:
 - de la ficelle 
 - une bouteille de lait pour chaton ou bouteille de yaourt à boire (yop) 
 
-![](/images/articles/reserveau/image003.jpg) 
+{{< image src="/images/articles/reserveau/image003.jpg" alt="" >}} 
 
 - Tracer un cercle à l'aide du bouchon de la bouteille d'eau 
 
-![](/images/articles/reserveau/image005.jpg) 
+{{< image src="/images/articles/reserveau/image005.jpg" alt="" >}} 
 
 - A l'aide du cutter effectuer une découpe à l'intérieure du cercle 
 
-![](/images/articles/reserveau/image007.jpg) 
+{{< image src="/images/articles/reserveau/image007.jpg" alt="" >}} 
 
 - Vérifier que la bouteille rentre dans le trou jusqu'à la butée du col de la bouteille d'eau 
 
-![](/images/articles/reserveau/image009.jpg) 
+{{< image src="/images/articles/reserveau/image009.jpg" alt="" >}} 
 
 - Mettre de la colle tout au tour du goulot de la bouteille et enfoncer la bouteille dans le trou 
 
-![](/images/articles/reserveau/image011.jpg) 
+{{< image src="/images/articles/reserveau/image011.jpg" alt="" >}} 
 
 - Mettre de la colle dans le bouchon (sur toute la circonférence) et le visser sur la petite bouteille 
 
-![](/images/articles/reserveau/image013.jpg) 
+{{< image src="/images/articles/reserveau/image013.jpg" alt="" >}} 
 
 - Effectuer le tracé de la découpe de la bouteille 
 
-![](/images/articles/reserveau/image015.jpg) 
+{{< image src="/images/articles/reserveau/image015.jpg" alt="" >}} 
 
 - Vérifier que le tracé soit dans l'alignement du col de la bouteille d'eau 
 
-![](/images/articles/reserveau/image017.jpg) 
+{{< image src="/images/articles/reserveau/image017.jpg" alt="" >}} 
 
 - Effectuer la découpe 
 
-![](/images/articles/reserveau/image019.jpg) 
+{{< image src="/images/articles/reserveau/image019.jpg" alt="" >}} 
 
 - A l'aide d'une bouteille d'eau pleine, effectuer le plein du bidon d'eau au travers de la petite bouteille 
 
-![](/images/articles/reserveau/image021.jpg) 
+{{< image src="/images/articles/reserveau/image021.jpg" alt="" >}} 
 
 - Redresser le bidon et vérifier son étanchéité 
 
-![](/images/articles/reserveau/image024.jpg) 
+{{< image src="/images/articles/reserveau/image024.jpg" alt="" >}} 
 
 - Vérifier que le niveau d'eau soit suffisamment haut sans déborder 
 
-![](/images/articles/reserveau/image026.jpg) 
+{{< image src="/images/articles/reserveau/image026.jpg" alt="" >}} 
 
 - A l'aide de la ficelle effectuer un cerclage du bidon en point haut et bas. 
 - A l'aide d'une ficelle effectuer un maintien en position inférieure du bidon afin qu'il ne puisse pas bouger avec le vent. 
 - Positionner la partie inférieure du bidon en contact avec l'arbre. 
 
-![](/images/articles/reserveau/image028.jpg) 
+{{< image src="/images/articles/reserveau/image028.jpg" alt="" >}} 
 
 - Si votre bidon est vandalisé, placer une pancarte afin d'expliquer l'utilité de cet abreuvoir. 
 
-![](/images/articles/reserveau/image029.jpg) 
+{{< image src="/images/articles/reserveau/image029.jpg" alt="" >}} 
 
 Imprimer l'affiche PDF (à faire plastifier pour résister aux intempéries) 
-![](images/reserveau/affiche%20bidon%20d'eau.pdf) 
+{{< image src="images/reserveau/affiche%20bidon%20d'eau.pdf" alt="" >}} 
 
 **Réservoir d'eau pour Écureuils** 
 
-![](/images/articles/resfabr_fichiers/image002.jpg) 
+{{< image src="/images/articles/resfabr_fichiers/image002.jpg" alt="" >}} 
 
-![](/images/articles/resfabr_fichiers/image004.jpg) 
+{{< image src="/images/articles/resfabr_fichiers/image004.jpg" alt="" >}} 
 
 ***Écureuil roux, espèce menacée, protégée par la Convention de Berne.***
 

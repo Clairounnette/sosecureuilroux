@@ -21,11 +21,11 @@ L'écureuil roux est aussi présent en Asie jusqu'au japon.
 
 Cette carte représente en vert la répartition des écureuils en Europe
 
-![](/images/articles/preshabi_fichiers/image002.jpg) 
+{{< image src="/images/articles/preshabi_fichiers/image002.jpg" alt="" >}} 
 
 On ne sait pas vraiment  quelle est la répartition exacte de l'écureuil roux en France, c'est pourquoi une enquéte est menée par Jean louis Chapuis (MNHN) Muséum National d'Histoire Naturel de Paris. Participez é cette enquéte en cliquant sur le sigle du muséum. C'est trés important.
 
-![](/images/articles/autres/index.1.gif)(http://ecureuils.mnhn.fr/enquete-nationale)
+{{< image src="/images/articles/autres/index.1.gif)(http://ecureuils.mnhn.fr/enquete-nationale" alt="" >}}
 
 
 ## Territoire 
@@ -39,28 +39,28 @@ En moyenne, ceux des méles sont plus grands que ceux des femelles, environ 4 h
 Le territoire est délimité par des dépéts déurine mais aussi par les sécrétions déodeur déposées gréce aux glandes quéil dispose autour de la bouche comme le montrent les photos ci-aprés. 
 
 
-![](/images/articles/presenta/DSC08753.jpg) 
+{{< image src="/images/articles/presenta/DSC08753.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC08764.jpg) 
+{{< image src="/images/articles/presenta/DSC08764.jpg" alt="" >}} 
 
-![](/images/articles/presenta/DSC08450.jpg) 
+{{< image src="/images/articles/presenta/DSC08450.jpg" alt="" >}} 
 
 
 ## Nid
 
-![](/images/articles/presenta/DSC08480.jpg) 
+{{< image src="/images/articles/presenta/DSC08480.jpg" alt="" >}} 
 
 
 
 Les écureuils construisent et vivent dans des nids appelés é hottes é][ [(voir é traces de présences)](tracepres.htm#Le_nid_) ] [dans les enfourchements de branches. Bien souvent au niveau du tronc la hauteur est de l'ordre d'une dizaine de métres, rarement plus et ceci afin de limiter la prise au vent.][  
 
-![](/images/articles/preshabi_fichiers/image003.gif)][Ils sont facilement reconnaissables é leurs formes sphériques tapissées de feuilles mortes dont le diamétre est déenviron 50cm. 
+{{< image src="/images/articles/preshabi_fichiers/image003.gif" alt="" >}}][Ils sont facilement reconnaissables é leurs formes sphériques tapissées de feuilles mortes dont le diamétre est déenviron 50cm. 
 
 
 
 Les écureuils construisent leurs propres nids oé peuvent aussi bien récupérer des nids déjé existants (photo ci aprés), abandonnés par les corvidés (pie, corneille, corbeaux), quéil réaménage avec un enchevétrement de brindilles trés serrées permettant ainsi au nid de supporter les tempétes de léhiver tout en restant hermétiquement étanche. 
 
-![](/images/articles/tracespre/DSC07959.jpg) 
+{{< image src="/images/articles/tracespre/DSC07959.jpg" alt="" >}} 
 
 Les écureuils construisent plusieurs nids sur le méme territoire dans lééventualité déune destruction par une marte ou le mauvais temps. En régle générale, ces nids se situent é une cinquantaine de métres les uns des autres. Leur nombre peut aller de 2 é 4 en moyenne. 
 
@@ -76,13 +76,13 @@ Les écureuils transportent les matériaux nécessaires é la fabrication de la 
 
 Les écureuils peuvent aussi choisir de s'installer dans un ancien nid de pic  
 
-![](/images/articles/les%20nids/DSC03488.jpg) 
+{{< image src="/images/articles/les%20nids/DSC03488.jpg" alt="" >}} 
 
-![](/images/articles/les%20nids/DSC03497.jpg) 
+{{< image src="/images/articles/les%20nids/DSC03497.jpg" alt="" >}} 
 
 D'autre endroit atypique peuvent lui servir d'habitat!
 
-![](/images/articles/autres/ECUREUIL.jpg) 
+{{< image src="/images/articles/autres/ECUREUIL.jpg" alt="" >}} 
 
 
 J'en profite pour remercier monsieur Chamorin d'avoir accepté d'observer cet écureuil sur le chéssis de sa fenétre de chambre. Ce qui lui impose de ne plus pouvoir ouvrir le volet , et cela dure tout de méme depuis juin 2011. Bravo et merci encore pour toutes ces belles observations. 

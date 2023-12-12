@@ -13,16 +13,16 @@ featured_image: "/images/articles/minero/DSC06658.jpg"
 
 # Diaporama
 
-![](/images/articles/minero/DSC06658.jpg) 
+{{< image src="/images/articles/minero/DSC06658.jpg" alt="" >}} 
 
-![](/images/articles/minero/DSC06657.jpg) 
+{{< image src="/images/articles/minero/DSC06657.jpg" alt="" >}} 
 
-![](/images/articles/minero/DSC06413.jpg) 
+{{< image src="/images/articles/minero/DSC06413.jpg" alt="" >}} 
 
-![](/images/articles/minero/DSC06417.jpg) 
+{{< image src="/images/articles/minero/DSC06417.jpg" alt="" >}} 
 
-![](/images/articles/minero/DSC06420.jpg) 
+{{< image src="/images/articles/minero/DSC06420.jpg" alt="" >}} 
 
-![](/images/articles/minero/DSC09493.jpg) 
+{{< image src="/images/articles/minero/DSC09493.jpg" alt="" >}} 
 
 

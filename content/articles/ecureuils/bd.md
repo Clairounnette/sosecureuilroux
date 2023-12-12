@@ -14,40 +14,40 @@ featured_image: "/images/articles/bd/presBD1.jpg"
 
 # La Bande Dessinée 
 
-![](/images/articles/bd/presBD1.jpg) 
+{{< image src="/images/articles/bd/presBD1.jpg" alt="" >}} 
 
 Cette BD va vous permettre de comprendre en quelques images les menaces qui pésent sur l'écureuil roux 
 
-![](/images/articles/bd/presBD2.jpg) 
+{{< image src="/images/articles/bd/presBD2.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD3.jpg) 
+{{< image src="/images/articles/bd/presBD3.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD4.jpg) 
+{{< image src="/images/articles/bd/presBD4.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD5.jpg) 
+{{< image src="/images/articles/bd/presBD5.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD6.jpg) 
+{{< image src="/images/articles/bd/presBD6.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD7.jpg) 
+{{< image src="/images/articles/bd/presBD7.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD8.jpg) 
+{{< image src="/images/articles/bd/presBD8.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD9.jpg) 
+{{< image src="/images/articles/bd/presBD9.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD10.jpg) 
+{{< image src="/images/articles/bd/presBD10.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD19.jpg) 
+{{< image src="/images/articles/bd/presBD19.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD12.jpg) 
+{{< image src="/images/articles/bd/presBD12.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD13.jpg) 
+{{< image src="/images/articles/bd/presBD13.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD14.jpg) 
+{{< image src="/images/articles/bd/presBD14.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD15.jpg) 
+{{< image src="/images/articles/bd/presBD15.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD16.jpg) 
+{{< image src="/images/articles/bd/presBD16.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD20.jpg) 
+{{< image src="/images/articles/bd/presBD20.jpg" alt="" >}} 
 
-![](/images/articles/bd/presBD18.jpg) 
+{{< image src="/images/articles/bd/presBD18.jpg" alt="" >}} 
