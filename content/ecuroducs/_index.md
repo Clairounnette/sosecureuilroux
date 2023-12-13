@@ -44,10 +44,23 @@ Nous utilisons la plupart du temps du materiel de récupération
 Les cordes d'escalades que nous utilisons sont des cordes reformées gracieusement données par le [club d'escalade de Compiégne](https://agc-compiegne.fr/).
 Ces cordes sont nouées d'une facon particuliere afin d'augmenter leur épaisseurs et donc leurs résistances. Cette largeur accrue leur permet également d'augmenter les forttements et ainsi ne peut glisser le long des arbres
 
-[Inserer photo ici]
+{{< image src="/images/ecuroducs/cordes/IMG_20210223_165649.jpg" alt="Image des cordes pour l'écuroduc." >}}
 
 ## Buches
 Les buches utilisées pour le montage des écuroducs sont généralement des buches de chenes d'environ 30 kg offert par [l'office nationale des fôret](https://www.onf.fr/).
 
+{{< image src="/images/ecuroducs/buches/IMG_20210223_171409.jpg" alt="Image des buches pour l'écuroduc." >}}
+
 ## Cordes d'ammarages
 Les cordes d'ammarages sont utilisées pour relier les deux arbres entre eux et de creer un corridor pour les écureuils. Ces cordes sont également des cordes réformées offert par (les voies navigables de france)[https://www.vnf.fr/vnf/]
+{{< image src="/images/ecuroducs/ammarages/IMG_20210223_171026.jpg" alt="Image des cordes d'ammarage pour l'écuroduc." >}}
+{{< image src="/images/ecuroducs/ammarages/montage ecu DF 1.JPG" alt="Image des cordes d'ammarage pour l'écuroduc." >}}
+
+## Ressources
+<iframe src="//player.bilibili.com/player.html?bvid=BV1jz4y1f7yo&page=1&high_quality=1&danmaku=0"
+        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
+{{< youtube-enhanced id="4W7XBw3Ed2o" >}}
+
+{{< youtube-enhanced id="Ft9S4MgtULg" >}}

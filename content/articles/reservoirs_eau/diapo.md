@@ -12,36 +12,34 @@ featured_image: "/images/articles/reserveau/raw190.jpg"
 --- 
 # Diaporama des résérvoirs d'eau
 
-{{< image src="/images/articles/reserveau/DSC01439.jpg" alt="" >}} 
+{{< caroussel interval=3000 >}}
+    {{< image src="/images/articles/reserveau/DSC01439.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC01804.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC01804.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC07638.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC07638.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC07677.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC07677.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC07678.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC07678.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC07679.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC07679.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC07732.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC07732.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC03391.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC03391.jpg" alt="" >}} 
 
-{{< image src="images/raw191.JPG" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC08160.jpg" alt="" >}} 
 
-{{< image src="images/raw190.JPG" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC08161.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC08160.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC08778.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC08161.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC08783.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC08778.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC09152.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC08783.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC09192.jpg" alt="" >}} 
 
-{{< image src="/images/articles/reserveau/DSC09152.jpg" alt="" >}} 
-
-{{< image src="/images/articles/reserveau/DSC09192.jpg" alt="" >}} 
-
-{{< image src="/images/articles/reserveau/DSC09564.jpg" alt="" >}} 
+    {{< image src="/images/articles/reserveau/DSC09564.jpg" alt="" >}} 
+{{< /caroussel >}}

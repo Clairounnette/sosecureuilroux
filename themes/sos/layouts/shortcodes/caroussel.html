@@ -1,0 +1,93 @@
+{{ $interval := .Get "interval" | default 5000 }}
+
+<div class="carousel">
+    <div class="carousel-inner">
+        {{ $images := findRE "<img[^>]*>" .Inner }}
+        {{ range $index, $image := $images }}
+
+        <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
+            {{ $image | safeHTML }}
+        </div>
+        {{ end }}
+    </div>
+
+    <a class="carousel-control prev"> &lt </a>
+    <a class="carousel-control next"> &gt </a>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+    const carousel = document.querySelector('.carousel');
+    const items = document.querySelectorAll('.carousel-item');
+    let index = 0;
+
+    document.querySelector('.next').addEventListener('click', function() {
+        index = (index + 1) % items.length;
+        updateCarousel();
+    });
+
+    document.querySelector('.prev').addEventListener('click', function() {
+        index = (index - 1 + items.length) % items.length;
+        updateCarousel();
+    });
+
+    function updateCarousel() {
+        items.forEach((item, i) => {
+        item.classList.toggle('active', i === index);
+        });
+    }
+
+    setInterval(function() {
+        index = (index + 1) % items.length;
+        updateCarousel();
+    }, {{ $interval }});
+    });
+</script>
+
+<style>
+    .carousel {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        max-height: 600px;
+    }
+
+    .carousel-inner {
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .carousel-item {
+        display: none;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .active {
+        display: block;
+    }
+
+    .carousel img {
+        width: 100%;
+        height: auto;
+    }
+
+    .carousel-control {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 2em;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .prev {
+        left: 10px;
+        user-select: none;
+    }
+
+    .next {
+        right: 10px;
+        user-select: none;
+    }
+</style>

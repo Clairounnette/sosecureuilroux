@@ -1,0 +1,39 @@
+{{ $id := .Get "id" }}
+<div class="youtube-video-container">
+    <div class="youtube-video-sub-container">
+        <div class="youtube-video-wrapper">
+            <iframe src="https://www.youtube.com/embed/{{ $id }}"
+                    width="560" height="315"
+                    class="youtube-video"
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen
+                    title="YouTube Video"></iframe>
+        </div>
+    </div>
+</div>
+<style>
+    .youtube-video-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .youtube-video-sub-container {
+        width: 80%;
+        margin: 1rem;
+    }
+    .youtube-video-wrapper {
+        overflow:hidden; 
+        padding-bottom:56.25%; 
+        position:relative; 
+        height:0;
+    }
+
+    .youtube-video {
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
+</style>

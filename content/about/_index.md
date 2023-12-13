@@ -17,13 +17,20 @@ SOS Écureuil Roux et Espèces Sauvages est une association pour la protection, 
 
 [Association loi 1901 n° RNA: W604002962](/documents/association/Statuts%20Association%20Loi%201901%20vresion%202-1.pdf)
 
+L’association SOS Ecureuil Roux et Espèces Sauvages a été créée le 13 mars 2010 et a été déclarée et enregistrée à la sous-préfecture de Senlis sous le N° W604002962. L’association a été créée vu la loi du 1er juillet 1901 relative au contrat d’association et vu la loi du 16 août 1901 portant règlement d’administration publique pour l’exécution de la loi précitée. Sa parution de création au journal officiel est du 15 mai 2010.
 
-## Nos actions
+Son numéro d’identifiant SIREN de l’INSEE du 2 mai 2011 est 532 062 098 (00019)
 
-- Favoriser la protection des espèces sauvages.
-- Favoriser le maintien des espèces sauvages dans leur espace naturel.
-- Observer et faire connaître ces espèces.
-- Initier et informer pour ancrer les différentes actions.
+Les membres créateurs de l’association ont défini l’objet de celle-ci en retenant les actions suivantes :
+
+- La protection, l’aide à la reproduction, l’observation, et l’initiation à la faune sauvage.
+- Notre association de défense de la faune sauvage a pour but de former et de rassembler des personnes ayant des connaissances sur des espèces peu ou mal connues et qui aimeraient mettre à profit leur expérience auprès des adhérents et du public : 
+- Favorisant la protection et le sauvetage des espèces sauvages par des 
+Projets d’installation d’écuroduc et éventuellement de Sauvetage des jeunes avec remise en liberté dans l’espace naturel le plus proche de leur naissance.
+- De favoriser la reproduction des espèces sauvages dans leur espace de vie par un soutien en nourriture, eau et minéraux pendant les périodes défavorables.
+- D’observer et faire connaître ces espèces en organisant des « Sorties Nature ».
+- D’initier et informer pour ancrer les différentes actions, telle que la Formation des adhérents à la connaissance de l’écureuil roux et d’autres espèces sauvages et en impliquant le plus possible les écoles.
+.
  
 ## Nous rejoindre
 

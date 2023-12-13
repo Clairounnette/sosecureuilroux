@@ -1,7 +1,7 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
 
-<div class="center">
+<div class="image-center">
   <img
     src="{{ $src }}"
     alt="{{ $alt }}"
@@ -10,7 +10,15 @@
 </div>
 
 <style>
-.center {
-    text-align: center;
+.image-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 600px;
+    overflow: hidden;
+    margin: 1rem;
+}
+.image-center img {
+  width: 80%;
 }
 </style>
