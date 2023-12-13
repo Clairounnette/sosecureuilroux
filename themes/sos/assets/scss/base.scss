@@ -12,6 +12,10 @@
     --medium-gray: #6b6b6b;
     --light-gray: #cacaca;
     --white: #f8f8f8ff;
+    --action-color: #0a2e65;
+    --warning-color: #8f2e15;
+    --danger-color: #7e0e0e;
+    --success-color: #12650a;
     --night: #0c0c0cff;
     --seal-brown: #65260aff;
     --caramel: #d0844eff;
@@ -56,13 +60,13 @@ p {
 
 /* Links */
 a {
-color: $text-color;
-text-decoration: none;
+color: $action-color;
 transition: color 0.3s;
 }
 
 a:hover {
 color: $primary-color;
+font-weight: 600;
 }
 
 /* Input Styles */

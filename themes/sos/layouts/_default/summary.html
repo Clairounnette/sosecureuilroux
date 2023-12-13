@@ -1,16 +1,16 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+<div class="summary-card">
   {{ if $featured_image }}
     <div>
       <a href="{{.RelPermalink}}">
-        <img src="{{ $featured_image }}" class="featured-image" alt="image from {{ .Title }}">
+        <img src="{{ $featured_image }}" class="summary-card__featured-image" alt="image from {{ .Title }}">
       </a>
     </div>
     {{ else }}
     <div>
       <a href="{{.RelPermalink}}">
         <img
-            class="featured-image"
+            class="summary-card__featured-image"
             src="/images/default-cover/squirell.jpg"
             alt="Ecureil roux, photo de Ray eye"
         />
@@ -18,45 +18,20 @@
     </div>
   {{ end }}
 
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <h1 class="f3 near-black title">
-      <a href="{{ .RelPermalink }}" class="link black dim">
+  <div class="summary-card__content">
+    <h1 class="summary-card__title">
+      <a href="{{ .RelPermalink }}">
         {{ .Title }}
       </a>
     </h1>
       <!-- Add the date to the summary -->
-      <span class="date-container">
-        <div class="date">
+      <span class="summary-card__date-container">
+        <div class="summary-card__date">
           {{ .Date.Format "2006" }}
         </div>
       </span>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
+    <div>
       {{ .Summary | truncate 200 }}
     </div>
   </div>
 </div>
-
-<style>
-  .featured-image {
-    width: 100%;
-    max-height: 300px;
-    overflow: hidden;
-    object-fit: cover; /*magic*/
-  }
-  .title{
-    margin:0;
-  }
-  .date-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px
-  }
-  
-  .date {
-    margin: 7.5px 0;
-    color:var(--medium-gray);
-    font-weight: 500;
-    font-size: 0.9rem;
-  }
-</style>

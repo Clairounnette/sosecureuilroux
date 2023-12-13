@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <article class="pa3 pa4-ns w-100 w-70-ns center {{ $.Param "text_color" | default "mid-gray" }}">
+  <article class="narrow-content">
     {{ .Content }}
   </article>
   
@@ -13,7 +13,7 @@
   {{/* Derive the section name  */}}
   {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <div class="narrow-content">
       {{ with .Site.GetPage "section" $section_name }}
           <h1 class="flex-none">Posts récents</h1>
       {{ end }}

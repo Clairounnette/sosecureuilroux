@@ -1,22 +1,30 @@
+{{/*Here is defined the main section when calling /tags/ */}}
+
 {{ define "main" }}
-    {{ $data := .Data }}
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-      {{ .Content }}
-    </div>
-  </article>
-  <div class="mw8 center">
-    <section class="ph4">
-      {{ range $term := .Data.Pages }}
-        <h2 class="f1">
-          <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
-            {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
-          </a>
-        </h2>
-        {{ range $term.Pages }}
-          {{ .Render "summary" }}
-        {{ end }}
-      {{ end }}
+{{ $data := .Data }}
+  <article class="narrow-content">
+    <section>
+      {{- .Content -}}
     </section>
-  </div>
+    {{ if .Pages }}
+    <section class="articles">
+      {{ range $term := .Data.Pages }}
+          <h1>
+            <a href="{{ $term.RelPermalink }}" >
+              {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
+            </a>
+          </h1>
+          <ul class="articles__list">
+          {{ range .Pages }}
+            <div class="articles__list__entry">
+              {{ .Render "summary" }}
+            </div>
+          {{ end }}
+        </ul>
+        </section>
+        {{- template "_internal/pagination.html" . -}}
+      {{ end }}
+    {{ end }}
+  </article>
 {{ end }}
+

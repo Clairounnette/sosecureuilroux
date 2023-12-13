@@ -1,6 +1,8 @@
+{{/*Here is defined the default iterator page (_index.md) for the news folder where all the posts are it includes 
+  the content of index.md and then iteratore over thew post in the folder  */}}
 {{ define "main" }}
-  <article class="pa3 pa4-ns w-100 w-70-ns center">
-    <section class="pa3 pa4-ns w-100 w-70-ns center  {{ $.Param "text_color" | default "mid-gray" }}">
+  <article class="narrow-content">
+    <section>
       {{- .Content -}}
     </section>
 
