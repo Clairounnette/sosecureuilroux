@@ -14,7 +14,7 @@ featured_image: "/images/news/2021/ecuroduc_parc_rentilly/20211106_094634.jpg"
 
 # Ecuroduc du parc de Rentilly
 
-{{< caroussel interval=2000 >}}
+{{< caroussel interval=4000 >}}
     {{< image src="/images/news/2021/ecuroduc_parc_rentilly/20211106_094634.jpg" alt="Ecuroduc du parc de Rentilly" >}} 
     {{< image src="/images/news/2021/ecuroduc_parc_rentilly/20211106_094648.jpg" alt="Ecuroduc du parc de Rentilly" >}} 
     {{< image src="/images/news/2021/ecuroduc_parc_rentilly/20211106_102122.jpg" alt="Ecuroduc du parc de Rentilly" >}} 

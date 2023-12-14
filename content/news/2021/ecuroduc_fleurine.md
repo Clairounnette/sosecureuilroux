@@ -14,7 +14,7 @@ featured_image: "/images/news/2021/ecuroduc_fleurine/Branches à couper.jpg"
 
 # Ecuroduc de Fleurines
 
-{{< caroussel interval=2000 >}}
+{{< caroussel interval=4000 >}}
     {{<image src="/images/news/2021/ecuroduc_fleurine/Branches à couper.jpg" alt="Ecuroduc de Fleurines" >}}
     {{<image src="/images/news/2021/ecuroduc_fleurine/IMG_20210401_165531.jpg" alt="Ecuroduc de Fleurines" >}}
     {{<image src="/images/news/2021/ecuroduc_fleurine/IMG_20210401_165700.jpg" alt="Ecuroduc de Fleurines" >}}

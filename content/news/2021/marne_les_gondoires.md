@@ -14,7 +14,7 @@ featured_image: "/images/news/2023/marne_les_gondoires/DSC04582.JPG"
 
 # Ecuroduc de Marne les gondoires
 
-{{< caroussel interval=2000 >}}
+{{< caroussel interval=4000 >}}
     {{<image src="/images/news/2023/marne_les_gondoires/DSC04582.JPG" alt="Ecuroduc de Marne les gondoires" >}}
     {{<image src="/images/news/2023/marne_les_gondoires/marne et gondoire 2021 (5).JPG" alt="Ecuroduc de Marne les gondoires" >}} 
     {{<image src="/images/news/2023/marne_les_gondoires/marne et gondoire 2021 (7).JPG" alt="Ecuroduc de Marne les gondoires" >}}

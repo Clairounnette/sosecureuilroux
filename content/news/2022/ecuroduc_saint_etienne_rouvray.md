@@ -14,7 +14,7 @@ featured_image: "/images/news/2022/ecuroduc_saint_etienne_rouvray/20220408_13460
 
 # Ecuroduc de Saint Etienne du Rouvray
 
-{{< caroussel interval=2000 >}}
+{{< caroussel interval=4000 >}}
 {{< image src="/images/news/2022/ecuroduc_saint_etienne_rouvray/20220408_134607.jpg" alt="Ecuroduc de Saint Etienne du Rouvray" >}} 
 {{< image src="/images/news/2022/ecuroduc_saint_etienne_rouvray/20220409_105124.jpg" alt="Ecuroduc de Saint Etienne du Rouvray" >}} 
 {{< image src="/images/news/2022/ecuroduc_saint_etienne_rouvray/20220409_131415.jpg" alt="Ecuroduc de Saint Etienne du Rouvray" >}} 

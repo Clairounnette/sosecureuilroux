@@ -17,7 +17,7 @@ featured_image: "/images/news/2023/bivouac_halatte/20230714_130638.jpg"
 A l´occasion des journées de la cohésion 
 
 
-{{< caroussel interval=2000 >}}
+{{< caroussel interval=4000 >}}
     {{< image src="/images/news/2023/bivouac_halatte/20230714_130638.jpg" alt="Bivouac en fôret d'halatte" >}}   
     {{< image src="/images/news/2023/bivouac_halatte/20230714_134855.jpg" alt="Bivouac en fôret d'halatte" >}}   
     {{< image src="/images/news/2023/bivouac_halatte/20230714_142715.jpg" alt="Bivouac en fôret d'halatte" >}}   
