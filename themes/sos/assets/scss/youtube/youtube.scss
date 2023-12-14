@@ -1,0 +1,26 @@
+.youtube-video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.youtube-video-sub-container {
+    width: 100%;
+    margin: 1rem;
+    @include responsive('small') {
+        width: 80%;
+    }
+}
+.youtube-video-wrapper {
+    overflow:hidden; 
+    padding-bottom:56.25%; 
+    position:relative; 
+    height:0;
+}
+
+.youtube-video {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
