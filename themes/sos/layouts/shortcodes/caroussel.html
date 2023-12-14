@@ -14,33 +14,54 @@
     <a class="carousel-control prev"> &lt </a>
     <a class="carousel-control next"> &gt </a>
 </div>
-
+<div class="carousel-indicators"></div>
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-    const carousel = document.querySelector('.carousel');
-    const items = document.querySelectorAll('.carousel-item');
-    let index = 0;
+    document.addEventListener("DOMContentLoaded", function () {
+        const carousel = document.querySelector('.carousel');
+        const items = document.querySelectorAll('.carousel-item');
+        let index = 0;
 
-    document.querySelector('.next').addEventListener('click', function() {
-        index = (index + 1) % items.length;
-        updateCarousel();
-    });
-
-    document.querySelector('.prev').addEventListener('click', function() {
-        index = (index - 1 + items.length) % items.length;
-        updateCarousel();
-    });
-
-    function updateCarousel() {
+        // Create carousel indicators dynamically
+        const indicatorsContainer = document.querySelector('.carousel-indicators');
         items.forEach((item, i) => {
-        item.classList.toggle('active', i === index);
+            const indicator = document.createElement('span');
+            indicator.classList.add('indicator');
+            indicator.addEventListener('click', function () {
+                index = i;
+                updateCarousel();
+            });
+            indicatorsContainer.appendChild(indicator);
+            if (i === 0) {
+                indicator.classList.add('indicator-active');
+            }
         });
-    }
 
-    setInterval(function() {
-        index = (index + 1) % items.length;
-        updateCarousel();
-    }, {{ $interval }});
+        document.querySelector('.next').addEventListener('click', function () {
+            index = (index + 1) % items.length;
+            updateCarousel();
+        });
+
+        document.querySelector('.prev').addEventListener('click', function () {
+            index = (index - 1 + items.length) % items.length;
+            updateCarousel();
+        });
+
+        function updateCarousel() {
+            items.forEach((item, i) => {
+                item.classList.toggle('active', i === index);
+            });
+
+            // Update indicators
+            const indicators = document.querySelectorAll('.indicator');
+            indicators.forEach((indicator, i) => {
+                indicator.classList.toggle('indicator-active', i === index);
+            });
+        }
+
+        setInterval(function () {
+            index = (index + 1) % items.length;
+            updateCarousel();
+        }, {{ $interval }});
     });
 </script>
 
@@ -49,11 +70,6 @@
         position: relative;
         overflow: hidden;
         width: 100%;
-        max-height: 600px;
-    }
-
-    .carousel-inner {
-        transition: transform 0.5s ease-in-out;
     }
 
     .carousel-item {
@@ -61,7 +77,6 @@
         width: 100%;
         box-sizing: border-box;
     }
-
     .active {
         display: block;
     }
@@ -81,6 +96,27 @@
         cursor: pointer;
     }
 
+    .carousel-indicators {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem 2rem;
+        gap: 10px;
+    }
+
+    .indicator {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background-color: rgba(0, 0, 0, 0.5);
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .indicator-active {
+        background-color: var(--primary-color);
+    }
     .prev {
         left: 10px;
         user-select: none;
