@@ -1,11 +1,11 @@
 ---
-title: "Présentation des traces"
+title: "Présentation du mode de vie"
 date: 2023-04-11
 tags: 
-    - Traces
+    - Mode de vie
 categories:
     - article
-description: "Présentation des traces"
+description: "Présentation du mode de vie"
 images:
     - "/images/articles/piste%20ecureuil/DSC00463.jpg"
 featured_image: "/images/articles/piste%20ecureuil/DSC00463.jpg"

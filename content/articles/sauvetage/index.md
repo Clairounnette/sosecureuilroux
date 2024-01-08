@@ -13,18 +13,14 @@ featured_image: "/images/articles/contact/DSC03857.jpg"
 
 # Sauvetage d'un jeune écureuil 
 
-- Vous avez recueilli un écureuil en détresse! La meilleure faéon de lui venir en aide est de contacter au plus vite Béatrice a ce mail : bea.vavasseur@yahoo.fr
+- Vous avez recueilli un écureuil en détresse! La meilleure façon de lui venir en aide est de contacter au plus vite Béatrice : 
 
-- Vous pouvez contacter aussi l'association du chéne, et l'Union Française des Centres de Sauvegarde de la faune sauvage aux 2 adresses suivantes. 
+{{< staff-cards >}}
 
-Association CHéNE
-12 rue du Musée
-76190 ALLOUVILLE-BELLEFOSSE
-Tél : 02 35 96 06 54
-Fax : 02 35 96 56 41
-Mail : asso.chene@wanadoo.fr
+    {{< staff-card name="Béatrice Vavasseur" description="Assure le sauvetage des écureuils" mail="bea.vavasseur@yahoo.fr" photo="/images/articles/association_fichiers/image002.jpg" photo="/images/about/members/beatrice.jpg" >}}
 
-L'UFCS [http://www.chez.com/uncs/](http://www.chez.com/uncs/) 
+{{< /staff-cards >}}
+
 
 ## Les premiers gestes qui sauvent, présente par Béatrice
 

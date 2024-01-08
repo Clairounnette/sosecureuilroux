@@ -1,18 +1,17 @@
 ---
-title: "Présence des traces"
+title: "Traces de présence"
 date: 2023-04-11
 tags: 
-    - Traces
+    - Mode de vie
 categories:
     - article
-description: "Présence des traces"
+description: "Traces de présence"
 images:
     - "/images/articles/tracespre/DSC08652.jpg"
 featured_image: "/images/articles/tracespre/DSC08652.jpg"
 ---
 
-# les traces de présences
-
+# Les traces de présence
 
  ## Le nid 
    

@@ -4,7 +4,7 @@ date: 2023-04-11
 tags: 
     - Écureuils
     - Minéraux
-    - Traces
+    - Mode de vie
 categories:
     - article
 description: "Minéraux"

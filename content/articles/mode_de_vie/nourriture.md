@@ -3,7 +3,7 @@ title: "Nourriture"
 date: 2023-04-11
 tags: 
     - Écureuils
-    - Traces
+    - Mode de vie
 categories:
     - article
 description: "Nourriture"
