@@ -29,10 +29,8 @@ $status := .Get "status" -}} {{- $mail := .Get "mail" -}} {{- $number := .Get
         {{ end }}
         {{ if ne $mail "" }}
         <div class="staff-card__contact">
-            {{- $mailParts := split $mail "@" -}}
-            {{- $mailLocalPart := index $mailParts 0 -}}
-            {{- $mailDomainPart := index $mailParts 1 -}}
-            {{- $mailObfuscated := printf "%s [at] %s [dot]" $mailLocalPart $mailDomainPart -}}
+            {{- $mailObfuscated := replace $mail "@" " [at] " -}}
+            {{- $mailObfuscated := replace $mailObfuscated "." " [dot] " -}}
             <div class="staff-card__icon">
                 {{ readFile "assets/icons/mail.svg"| safeHTML }}
             </div>
