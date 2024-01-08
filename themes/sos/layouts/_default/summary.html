@@ -49,8 +49,11 @@
           {{ end }}
         {{ end }}
       {{ end }}
-      
-      {{ $string | safeHTML | truncate 200 }} 
+      {{ if eq $string "" }}
+        {{ $string = .Title }}
+      {{else }}
+        {{ $string | safeHTML | truncate 200 }} 
+      {{ end }}
       
     </div>
   </div>
