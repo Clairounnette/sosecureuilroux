@@ -37,14 +37,12 @@ Projets d’installation d’écuroduc et éventuellement de Sauvetage des jeune
 Votre aide nous est précieuse, votre adhésion nous permettra de continuer notre action. 
 
 [Bulletin d'adhésion](documents/association/bulletin%20d'adhesion%20201_.pdf) 
-
 ## L'équipe 
-
 {{< staff-cards >}}
 
-    {{< staff-card name="Bernard Bultel" status="Président" description="Description" >}}
+    {{< staff-card name="Bernard Bultel" status="Président" description="Description" mail="bernardbultel@hotmail.com" number="06-19-74-68-40" >}}
 
-    {{< staff-card name="Brigitte Desplechin-Lejeune" status="Trésorière" description="Description" >}}
+    {{< staff-card name="Brigitte Desplechin-Lejeune" status="Trésorière" description="Description" mail="brigitte.desplechin-lejeune@wanadoo.fr" number="03-44-54-12-61" >}}
 
     {{< staff-card name="Laurent Sulfour" status="Membre du conseil d'administration" description="Grimpeur d'arbre , spécialiste de l'installation des écuroducs, membre du conseil d'administrations actif de l'association arboreale" photo="/images/about/members/laurent.jpg" >}}
 

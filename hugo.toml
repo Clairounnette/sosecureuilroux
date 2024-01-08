@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'fr-FR'
 title = 'SOS écureuils roux et espèces sauvages'
 theme = 'sos'
 staticDir = ['static']

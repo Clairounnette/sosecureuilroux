@@ -31,7 +31,27 @@
         </div>
       </span>
     <div>
-      {{ .Summary | truncate 200 }}
+      
+      {{ $lines := split .Plain "\n" }}
+      {{ $string := "" }}
+      {{ $start := 1 }}
+      
+      {{ range $i, $line := $lines }}
+        {{ if lt $i $start }}
+          {{ continue }}
+        {{ else }}
+          {{ if ne $line "" }}
+            {{ if eq $string "" }}
+              {{ $string = $line }}
+            {{ else }}
+              {{ $string = printf "%s\n%s" $string $line }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      
+      {{ $string | safeHTML | truncate 200 }} 
+      
     </div>
   </div>
 </div>

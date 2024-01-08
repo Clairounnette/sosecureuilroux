@@ -23,14 +23,27 @@ $status := .Get "status" -}} {{- $mail := .Get "mail" -}} {{- $number := .Get
         <div class="description">
             <p>{{ $description }}</p>
         </div>
+        {{ if ( ne $mail "" | ne $number "" )  }}
+
+        <div class="staff-card__separator"></div>
+        {{ end }}
         {{ if ne $mail "" }}
         <div class="staff-card__contact">
-            {{ readFile "assets/icons/material/mail.svg"| safeHTML }}
-            <p>{{ $mail }}</p>
+            {{- $mailParts := split $mail "@" -}}
+            {{- $mailLocalPart := index $mailParts 0 -}}
+            {{- $mailDomainPart := index $mailParts 1 -}}
+            {{- $mailObfuscated := printf "%s [at] %s [dot]" $mailLocalPart $mailDomainPart -}}
+            <div class="staff-card__icon">
+                {{ readFile "assets/icons/mail.svg"| safeHTML }}
+            </div>
+            <p>{{ $mailObfuscated }}</p>
         </div>
-        {{ end }} {{ if ne $number "" }}
+        {{ end }} 
+        {{ if ne $number "" }}
         <div class="staff-card__contact">
-            {{ readFile "assets/icons/material/phone.svg"| safeHTML }}
+            <div class="staff-card__icon">
+                {{ readFile "assets/icons/phone.svg"| safeHTML }}
+            </div>
             <p>{{ $number }}</p>
         </div>
         {{ end }}

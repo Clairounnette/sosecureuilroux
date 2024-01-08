@@ -7,8 +7,8 @@ categories:
    - article
 description: "Présentation des mangeoires"
 images:
-   - "images/raw135.JPG"
-featured_image: "images/raw135.JPG"
+   - "/images/articles/mangeoir/raw140.jpg"
+featured_image: "/images/articles/mangeoir/raw140.jpg"
 --- 
 
 # Mangeoires

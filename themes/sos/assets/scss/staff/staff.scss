@@ -5,6 +5,7 @@
     background-color: #f9f9f9;
     box-shadow: 2px 2px 6px rgb(230, 230, 230);
     margin: 10px;
+    height: 100%;
     .img-container {
         width: 100%;
         height: 200px;
@@ -53,15 +54,25 @@
         width: 100%;
         height: 100%;
     }
+    &__icon {
+        padding: 5px;
     }
-
+    &__icon svg {
+        width: 20px;
+        height: 20px;
+    }
+    &__separator {
+        width: 100%;
+        margin: 10px 0;
+        border: 1px solid var(--light-gray);
+    }
+    }
     /* For mobile */
     @media (max-width: 768px) {
         .staff-card {
             width: 100%; /* Adjust to the width you prefer for mobile */
         }
     }
-
 
 .staff-cards {
     display: flex;
