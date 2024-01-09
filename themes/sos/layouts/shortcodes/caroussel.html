@@ -1,5 +1,5 @@
 {{ $interval := .Get "interval" | default 5000 }}
-
+{{ $height := .Get "height" | default "500px" }}
 <div class="carousel">
     <div class="carousel-inner">
         {{ $images := findRE "<img[^>]*>" .Inner }}
@@ -81,14 +81,14 @@
     }
     .carrousel-inner {
         display: flex;
-        height: 500px;
+        height: {{ $height }};
         transition: transform 0.3s ease;
     }
 
     .carousel-item {
         position:relative;
         display: none;
-        height: 500px;
+        height: {{ $height }};
         width: 100%;
         box-sizing: border-box;
     }
