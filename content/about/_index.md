@@ -62,7 +62,7 @@ L’association a installé 9 Ecuroducs en majorité sur le territoire du Parc N
 
 Les visites des sites avec les demandeurs de projets, permettent rapidement de faire une expertise précise de la demande, mais surtout d’envisager les meilleures possibilités de faisabilité. Une implication des élus ou responsables territoriaux rencontrés permet également de les impliquer dans les techniques envisagées et peuvent plus facilement appréhender le niveau de l’engagement financier. L’association apporte, et apportera les conseils techniques dans le respect des demandes des collectivités (ou autres). Si un projet n’était pas correctement envisageable, l’association déclinerait de facto l’étude et sa réalisation.
 
-{{< caroussel interval=3000 height="700px">}}
+{{< caroussel interval=4000 height="700px">}}
     {{< image src="/images/about/history/image2.jpg" alt="" >}} 
     {{< image src="/images/about/history/image3.jpg" alt="" >}} 
     {{< image src="/images/about/history/image4.jpg" alt="" >}} 

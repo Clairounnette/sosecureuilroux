@@ -69,3 +69,7 @@ Les mares
  
  {{< image src="/images/articles/reserveau/DSC09696.jpg" alt="" >}} 
 
+
+## Ressources
+
+{{< youtube-enhanced id="q0x7xcEcp_E" >}}

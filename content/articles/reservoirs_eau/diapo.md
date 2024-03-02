@@ -12,7 +12,7 @@ featured_image: "/images/articles/reserveau/raw190.jpg"
 --- 
 # Diaporama des résérvoirs d'eau
 
-{{< caroussel interval=3000 >}}a
+{{< caroussel interval=4000 >}}a
     {{< image src="/images/articles/reserveau/DSC01439.jpg" alt="" >}} 
 
     {{< image src="/images/articles/reserveau/DSC01804.jpg" alt="" >}} 

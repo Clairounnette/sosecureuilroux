@@ -23,45 +23,49 @@ featured_image: "/images/articles/contact/DSC03857.jpg"
 
 
 ## Les premiers gestes qui sauvent, présente par Béatrice
+Je tiens à préciser que de se lancer dans le sauvetage d'un écureuil est une chose complètement illégale, si vous ne disposez pas d'autorisation spéciale, et ça ne peut être envisageable que dans le seul but de remise en liberté.
 
-Je tiens a préciser que de se lancer dans le sauvetage d'un écureuil est une chose complétement illégale, si vous ne disposez pas d'autorisation spéciale, et ça ne peut-étre envisageable que dans le seul but de remise en liberté. 
+Premier geste à pratiquer lors de la découverte d'un nid complet ou d'un ou de plusieurs bébés trouvés au sol, soit après un élagage ou après une tempête !
 
-Premier geste a pratiquer lors d'une découverte d'un nid complet ou d'un ou de plusieurs bébés trouvés au sol, soit dé é un élagage ou aprés une tempéte! 
+- Replacer le nid le plus proche possible de l'endroit de la découverte en sécurisant le secteur. Attention aux chats et aux chiens !
+- Vérifiez sans trop toucher les bébés qu'ils ne sont pas blessés, si des blessures sont présentes suivez les consignes du chapitre suivant "Consignes de sauvetage :"
+- Sinon, si tout vous paraît normal, laissez une chance à la femelle de revenir chercher ses petits. Cela sera le mieux pour tous !
+- Si la femelle n'est pas revenue au bout de 2 heures, ou que la nuit approche, elle ne reviendra plus !
+Dans ce cas précis, vous pouvez suivre les consignes de sauvetage...
 
-- Replacer le nid le plus proche possible de l'endroit de la découverte en sécurisant le secteur. Attention aux chats et aux chiens! 
-- Vérifiez sans trop toucher les bébés qu'ils ne sont pas blessés, si des blessures sont présentent suivez les consignes du chapitre suivant "Consignes de sauvetage:" 
-- Sinon, si tout vous parait normal, laissez une chance é la femelle de revenir chercher ses petits. Cela sera le mieux pour tous! 
-- Si la femelle n'est pas revenue au bout de 2 heures, ou que la nuit approche, elle ne reviendra plus! 
-Dans ce cas précis vous pouvez suivre les consignes de sauvetage ...
+Note : allez revérifier s'il ne reste pas d'autres bébés au sol, et ce, pendant deux à trois jours, car cela arrive fréquemment !!!
 
-Note: allez revérifier qu'il ne reste pas d'autres bébés au sol, et ce, pendant deux é trois jours, car cela arrive fréquemment!!!
+Consignes de sauvetage :
 
-Consignes de sauvetage: 
+- Placer les bébés dans un endroit au calme et au chaud, ne les manipuler pas trop car ils peuvent être gravement blessés.
+- Placer les bébés dans un carton avec une bouillotte enveloppée dans un linge pour ne pas les surchauffer d'un coup.
+- Très important vérifier la température très souvent, celle-ci doit rester constante !!! Vous pouvez utiliser soit une lampe infrarouge ou un radiateur. Attention, placer les orphelins dans un carton ou une boîte sécurisée, c'est-à-dire avec un couvercle aéré, car les bébés peuvent se faufiler et tomber au sol, et peuvent y mourir de froid ou se faire croquer par votre chien ou votre chat.
 
-- Placer les bébés dans un endroit au calme et au chaud, ne les manipuler pas trop car ils peuvent étre gravement blessés. 
-- Placer les bébés dans un carton avec une bouillotte enveloppée dans un linge pour ne pas les surchauffer d'un coup. 
-- Trés important vérifier la température trés souvent, celle-ci doit rester constante!!! Vous pouvez utiliser soit une lampe infrarouge ou un radiateur. Attention, placer les orphelins dans un carton ou une boite sécurisée, c'est é dire avec un couvercle aéré, car les bébés peuvent se faufiler et tomber au sol, et peuvent y mourir de froid ou se faire croquer par votre chien ou votre chat. 
+- Placer le carton avec une partie chauffée et l'autre non, ils pourront choisir eux-mêmes la température idéale dont ils ont besoin !!!
+- Me contacter au plus vite car chaque heure qui passe peut leur coûter la vie, sans soins adaptés. Les bébés peuvent être blessés, en hypothermie ou déshydratés.
 
-- Placer le carton avec une partie chauffée et l'autre non, ils pourront choisir eux-mémes la température idéale dont ils ont besoin!!!! 
-- Me contacter au plus vite car chaque heures qui passe peut leur coéter la vie, sans soins adaptés. Les bébés peuvent étre blessés ou en hypothermie ou déshydratés. 
+- Faire attention, les écureuils sont porteurs de maladies et de parasites, les manipuler avec précaution.
+- Nota : les tiques et les puces qu'ils transportent ne sont pas transmissibles à vos animaux de compagnie, ce ne sont pas les mêmes variétés, donc pas d'inquiétude de ce côté-là !.
 
-- Faire attention, les écureuils sont porteurs de maladies, et parasites, les manipuler avec précaution. 
-- Nota: les tiques et les puces qu'ils transportent ne sont pas transmissibles é vos animaux de compagnie, ce ne sont pas les mémes variétés, donc pas d'inquiétude de ce cété lé!. 
+- Ne rien leur donner, ni à boire, ni à manger, car une alimentation ou un liquide mal ingéré peut leur coûter la vie... et surtout JAMAIS DE LAIT DE VACHE.
 
-- Ne rien leur donner, ni é boire, ni é manger,car une alimentation ou un liquide mal ingéré peut leur coéter la vie....et surtout JAMAIS DE LAIT DE VACHE. 
+- M'envoyer une ou plusieurs photos du bébé, cela m'aidera à voir son âge exact, ce qui est très IMPORTANT pour la suite des soins, car un bébé de 3 semaines n'a pas les mêmes besoins qu'un de 4 ou 5 semaines, surtout au niveau couveuse et quantité de biberons à donner.
 
-- Envoyer-moi une ou plusieurs photos du bébé, cela m'aidera é voir son ége exact, ce qui est trés IMPORTANT pour la suite des soins, car un bébé de 3 semaines n'a pas les mémes besoins qu'un de 4 ou 5 semaines, surtout au niveau couveuse et quantité de biberons é donner. 
+- Seul un professionnel de la faune sauvage pourra mener à bien cette intervention délicate !!!
 
-- Seul un professionnel de la faune sauvage pourra mener é bien cette intervention délicate!!! 
+- Le sauvetage se fera sans apprivoiser le bébé, jusqu'au jour de son relâchement, qui par ailleurs est une technique bien particulière et la clé de la survie de son futur retour à la liberté !!!!!
 
-- Le sauvetage se fera sans apprivoiser le bébé, jusqu'au jour de son reléchement, qui par ailleurs est une technique bien particuliére et la clé de la survie de son futur retour é la liberté!!!!! 
+- L'écureuil n'est pas un animal de compagnie, il est protégé par des lois qui n'autorisent pas sa captivité.
 
-- L'écureuil n'est pas un animal de compagnie, il est protégé par des lois qui n'autorisent pas sa captivité. 
+- Ne vous fiez pas à sa bouille d'ange, car si vous faites l'erreur de le garder, non seulement vous devenez hors la loi, et il deviendra très vite une calamité :
 
-- Ne vous fier pas é sa bouille d'ange, car si vous faites l'erreur de le garder, non seulement vous devenez hors la loi, et il deviendra trés vite une calamité: 
+- Adulte à 10/ 11 mois, il deviendra territorial dans votre maison, et de plus en plus agressif !!!! Je ne vous parle même pas des dégâts causés à vos meubles !!!!!!
 
-- Adulte é 10/ 11 mois, il deviendra territorial dans votre maison, et de plus en plus agressif!!!! Je ne vous parle méme pas des dégéts causés é vos meubles!!!!!! 
+- Et lors des départs en vacances !!!! je vous laisse imaginer les soucis !!! car cet animal a l'instinct extrêmement sauvage, risque de s'enfuir lorsque vous allez le changer d'environnement... De toute façon, il passera sa vie à essayer de se sauver !!!! et si cela devait arriver sans préparation au retour à la vie sauvage, vous en serez le SEUL responsable !!!!!
 
-- Et lors des départs en vacances!!!! je vous laisse imaginer les soucis!!! car cet animal é l'instinct extrémement sauvage, risque de s'enfuire lorsque vous allez le changer d'environnement... De toute faéon, il passera sa vie é essayer de se sauver!!!! et si cela devait arriver sans préparation au retour é la vie sauvage, vous en serez le SEUL responsable!!!!!
+- Réfléchissez avant de faire cette GROSSE erreur, pour lui et pour vous.
 
-- Réfléchissez avant de faire cette GROSSE erreur, pour lui et pour vous. 
+
+## Ressources
+
+{{< youtube-enhanced id="7wwpROBbC7I" >}}

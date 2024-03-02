@@ -12,7 +12,7 @@ featured_image: "/images/articles/presenta/DSC03404.jpg"
 ---
 
 # Diaporama des écureuils
-{{< caroussel interval=3000 >}}
+{{< caroussel interval=4000 >}}
     {{< image src="/images/articles/presenta/DSC03404.jpg" alt="" >}} 
 
     {{< image src="/images/articles/presenta/DSC03293.jpg" alt="" >}} 

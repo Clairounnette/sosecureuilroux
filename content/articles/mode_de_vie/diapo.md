@@ -12,7 +12,7 @@ featured_image: "/images/articles/tracespre/DSC08720.jpg"
 ---
 
 # Diaporama du mode de vie
-{{< caroussel interval=3000 >}}
+{{< caroussel interval=4000 >}}
     {{< image src="/images/articles/tracespre/DSC08720.jpg" alt="" >}} 
 
     {{< image src="/images/articles/tracespre/DSC09560.jpg" alt="" >}} 

@@ -36,6 +36,6 @@ https://www.facebook.com/profile.php?id=100008174590854
 
 {{< staff-cards >}}
 
-    {{< staff-card name="Béatrice Vavasseur" description="Assure le sauvetage des écureuils" mail="refuge.ecureuil@yahoo.com" photo="/images/articles/association_fichiers/image002.jpg" photo="/images/about/members/beatrice.jpg" >}}
+    {{< staff-card name="Béatrice Vavasseur" description="Assure le sauvetage des écureuils" mail="beatricevavasseur@yahoo.fr" photo="/images/articles/association_fichiers/image002.jpg" photo="/images/about/members/beatrice.jpg" >}}
 
 {{< /staff-cards >}}

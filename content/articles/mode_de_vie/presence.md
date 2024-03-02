@@ -209,7 +209,7 @@ les cachettes
  
  {{< image src="/images/articles/tracespre/fs_red_squirrel_front.jpeg.jpg" alt="" >}} 
 
-## les poils  
+## Les poils  
  
  - [Il arrive parfois que les écureuils s'accrochent aux branches avec leur queue, et laissent une quantité importante de poils derrière eux.] 
  - [la mue peut elle aussi favoriser la présence de poils.] 

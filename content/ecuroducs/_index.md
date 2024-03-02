@@ -59,6 +59,6 @@ Les cordes d'amarrages sont utilisées pour relier les deux arbres entre eux et 
 
 ## Ressources
 
-{{< youtube-enhanced id="4W7XBw3Ed2o" >}}
+{{< youtube-enhanced id="ZQ2iDYK-cLo" >}}
 
-{{< youtube-enhanced id="Ft9S4MgtULg" >}}
+{{< youtube-enhanced id="NGYnLvOuwEI" >}}

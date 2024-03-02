@@ -28,6 +28,7 @@
         const carousel = document.querySelector('.carousel');
         const items = document.querySelectorAll('.carousel-item');
         let index = 0;
+        let intervalId;
 
         // Create carousel indicators dynamically
         const indicatorsContainer = document.querySelector('.carousel-indicators');
@@ -37,6 +38,7 @@
             indicator.addEventListener('click', function () {
                 index = i;
                 updateCarousel();
+                resetTimer();
             });
             indicatorsContainer.appendChild(indicator);
             if (i === 0) {
@@ -47,11 +49,13 @@
         document.querySelector('.next').addEventListener('click', function () {
             index = (index + 1) % items.length;
             updateCarousel();
+            resetTimer();
         });
 
         document.querySelector('.prev').addEventListener('click', function () {
             index = (index - 1 + items.length) % items.length;
             updateCarousel();
+            resetTimer();
         });
 
         function updateCarousel() {
@@ -65,11 +69,17 @@
                 indicator.classList.toggle('indicator-active', i === index);
             });
         }
+        function resetTimer() {
 
-        setInterval(function () {
-            index = (index + 1) % items.length;
-            updateCarousel();
-        }, {{ $interval }});
+            clearInterval(intervalId);
+            console.log("reset")
+            intervalId = setInterval(function () {
+                index = (index + 1) % items.length;
+                updateCarousel();
+            }, {{ $interval }});
+        }
+
+        resetTimer()
     });
 </script>
 

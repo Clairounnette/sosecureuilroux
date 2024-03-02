@@ -12,7 +12,7 @@ featured_image: "/images/articles/minero/DSC06658.jpg"
 ---
 
 # Diaporama
-{{< caroussel interval=3000 >}}
+{{< caroussel interval=4000 >}}
    {{< image src="/images/articles/minero/DSC06658.jpg" alt="" >}} 
 
    {{< image src="/images/articles/minero/DSC06657.jpg" alt="" >}} 

@@ -12,7 +12,7 @@ featured_image: "/images/articles/mangeoir/DSC08163.jpg"
 ---
 
 # Diaporama des mangeoires
-{{< caroussel interval=3000 >}}
+{{< caroussel interval=4000 >}}
    {{< image src="/images/articles/mangeoir/DSC08163.jpg" alt="" >}} 
 
    {{< image src="/images/articles/mangeoir/DSC08166.jpg" alt="" >}} 
