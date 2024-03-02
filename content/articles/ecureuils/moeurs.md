@@ -7,8 +7,8 @@ categories:
     - article
 description: 'Description des moeurs des écureuils'
 images:
-    - "/images/articles/presenta/DSC08739.jpg"
-featured_image: "/images/articles/presenta/DSC08739.jpg"
+    - "images/articles/presenta/DSC08739.jpg"
+featured_image: "images/articles/presenta/DSC08739.jpg"
 ---
 
 # Moeurs
@@ -23,7 +23,7 @@ En automne l'activité des écureuils est très intense car ils doivent constitu
 
 Pendant la période fraîche de l'année les écureuils aiment se prélasser au soleil sur une branche bien exposée. Par contre, dés que les températures deviennent trop importantes (au-delà de 24°), les écureuils se mettent à l'ombre et ne se déplacent que par nécessité. 
 
-{{< image src="/images/articles/sommeil%20ecureuil/DSC09395.jpg" alt="" >}} 
+{{< image src="images/articles/sommeil%20ecureuil/DSC09395.jpg" alt="" >}} 
 
 En hiver et par temps froid, l'activité des écureuils l'après midi est quasi nulle. 
 
@@ -36,38 +36,38 @@ Mais ce que détestent le plus les écureuils, ce sont les excès de vent, voire
 
 - les écureuils passent de longues périodes à se toiletter. Etant donné l'importance vitale qu'elle représente, la queue est la partie du corps à laquelle l'écureuil prête le plus d'attention.
 
-{{< image src="/images/articles/presenta/raw112.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/raw112.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC08612.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08612.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC08614.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08614.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC08606.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08606.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC08610.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08610.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC08621.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08621.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC08620.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08620.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC02988.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC02988.jpg" alt="" >}} 
 
-{{< image src="/images/articles/presenta/DSC02990.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC02990.jpg" alt="" >}} 
 
 
 ## Les étirements 
 
 - Comme tout athlète de haut niveau, les écureuils s'étirent régulièrement : après leur réveil, ou lors de leurs déplacements dans les arbres. Sans doute pour anticiper les crampes. Accrochés par leurs pattes arrières, ils se suspendent littéralement dans le vide.
 
-{{< image src="/images/articles/presenta/DSC08655.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC08655.jpg" alt="" >}} 
 
 - Le bâillement fait aussi parti de c'est habitude
 
-{{< image src="/images/articles/presenta/2009%2008%2009_0262+.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/2009%2008%2009_0262+.jpg" alt="" >}} 
 
 ## Comportement 
 
-{{< image src="/images/articles/presenta/DSC06901.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC06901.jpg" alt="" >}} 
 
 L'écureuil roux a la réputation d'être un animal solitaire mais qui peut tout à fait vivre en compagnie de ses congénères pendant les périodes de grand froid où il n'hésite pas à  partager le même nid afin de se tenir chaud. Mais une fois les beaux jours arrivés, ils se séparent et le seul moment où ils se retrouvent se situe pendant la période des amours. Les rencontres entre écureuils sur le même site de nourriture sont souvent suivies de courses poursuites sur le tronc d'arbre. 
 

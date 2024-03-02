@@ -1,6 +1,6 @@
  # Bibliographie
  
- {{< image src="/images/articles/bibliogr/DSC08528.jpg" alt="" >}} 
+ {{< image src="images/articles/bibliogr/DSC08528.jpg" alt="" >}} 
 
  FCPN: www.fcpn.org 
  

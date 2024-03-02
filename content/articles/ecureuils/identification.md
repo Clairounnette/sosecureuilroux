@@ -7,8 +7,8 @@ categories:
    - article
 description: "Identification de l'espéce"
 images:
-   - "/images/articles/presenta/DSC09379.jpg"
-featured_image: "/images/articles/presenta/DSC09379.jpg"
+   - "images/articles/presenta/DSC09379.jpg"
+featured_image: "images/articles/presenta/DSC09379.jpg"
 ---
 
 # Identification de l'espéce
@@ -23,21 +23,21 @@ Ces couleurs peuvent varier selon les saisons mais sont fonction de son habitat.
 ### écureuil roux 
 Le plus commun dans les forets de feuillus a faible altitude 
 
-{{< image src="/images/articles/presenta/DSC09149.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC09149.jpg" alt="" >}} 
 
 
 ### écureuil roux gris 
 
 Cette teinte s'atténue trés souvent avec la mue d'été 
 
-{{< image src="/images/articles/presenta/raw206.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/raw206.jpg" alt="" >}} 
 
 
 ### écureuil roux noir 
 
 Voir la coloration des griffes, des pinceaux et de la queue. 
 
-{{< image src="/images/articles/presenta/raw93.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/raw93.jpg" alt="" >}} 
 
 
 ### écureuil noir 
@@ -47,7 +47,7 @@ Cet écureuil est essentiellement présent dans les foréts d'altitude.
 
 Il est important de bien le reconnaétre car il pourrait se confondre avec l'écureuil gris d'Amérique, é cette différence majeure, c'est que l'écureuil gris d'Amérique ne posséde pas de pinceaux aux oreilles.
 
-{{< image src="/images/articles/premorph_fichiers/TOP0463.jpg" alt="" >}} 
+{{< image src="images/articles/premorph_fichiers/TOP0463.jpg" alt="" >}} 
 
 
 Ici un écureuil gris d'Amérique  Sciruis caroliensis (sans les pinceaux)
@@ -63,7 +63,7 @@ Mais pourquoi une couleur aussi flash pour un animal aussi discret?
 
 Il faut bien admettre que la couleur de cet animal n'est pas ce qui ce fait de mieux en matiére de camouflage et ne correspond pas tout é fait é son environnement et pourtant é.! 
 
-{{< image src="/images/articles/presenta/DSC06900.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC06900.jpg" alt="" >}} 
 
 L'écureuil est un animal arboricole qui n'a pas grand chose é craindre quand il est dans les arbres. La martre qui est son principal ennemi est un animal crépusculaire et nocturne, elle se fie donc plutét é son odorat, car quand la martre est en chasse, l'écureuil est déjé caché dans un de ses nombreux abris. 
 
@@ -77,10 +77,10 @@ A ces deux saisons les arbres n'ont plus de feuilles et l'écureuil est facileme
 
 C'est pourquoi les écureuils foncés se trouvent plutét en altitude, car les foréts de pins ont principalement un couvert végétal sombre voire noir. 
 
-{{< image src="/images/articles/presenta/raw18.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/raw18.jpg" alt="" >}} 
 
 La seule période oé la coloration des écureuils est en phase avec la végétation, c'est é l'automne, période oé le feuillage a pris la méme couleur que leur pelage. 
 
-{{< image src="/images/articles/presenta/DSC07826.jpg" alt="" >}} 
+{{< image src="images/articles/presenta/DSC07826.jpg" alt="" >}} 
 
 

@@ -7,7 +7,7 @@ toc = true
 
 [params]
 custom_css = ["main.css"]
-favicon = '/images/logo.jpg'
+favicon = 'images/logo.jpg'
 [[menu.main]]
     name = "Accueil"
     url = "/"

@@ -7,8 +7,8 @@ categories:
     - article
 description: "Présentation du mode de vie"
 images:
-    - "/images/articles/piste%20ecureuil/DSC00463.jpg"
-featured_image: "/images/articles/piste%20ecureuil/DSC00463.jpg"
+    - "images/articles/piste%20ecureuil/DSC00463.jpg"
+featured_image: "images/articles/piste%20ecureuil/DSC00463.jpg"
 ---
 
 # Sur les traces de l'écureuil roux
@@ -39,19 +39,19 @@ featured_image: "/images/articles/piste%20ecureuil/DSC00463.jpg"
  - La présence d'épicéas renforce nos chances pour trouver des écureuils, si en plus il a de l'eau aux alentours alors c'est clair que vous en trouverez
  - Dans les forêts de feuillus, évitez les zones bien éclaircies avec peu de corridors biologiques entre les arbres.
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00463.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00463.jpg" alt="" >}} 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00477.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00477.jpg" alt="" >}} 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00501.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00501.jpg" alt="" >}} 
  
  - Privilégiez les forêts plus denses avec des points d'eau, c'est plus facile sinon il vaudra mieux patienter à l'automne.
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00478.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00478.jpg" alt="" >}} 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00524.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00524.jpg" alt="" >}} 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00527.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00527.jpg" alt="" >}} 
  
  - Il faudra inspecter les arbres entre 10 et 15 mètres de haut, c'est là que se trouvent les nids
 
@@ -60,11 +60,11 @@ featured_image: "/images/articles/piste%20ecureuil/DSC00463.jpg"
 - Bingo ! Vous avez trouvé une parcelle d'épicéas communs. En êtes vous sur ? Pin sylvestre ? sapin pectiné? sapin géant ? douglas le mélèze ? cèdres ? pin à 2 aiguilles ? pin Weymouth ? pin d'Autriche ? Ils se ressemblent tous!!\ 
  Ah bon ! Vous en êtes sûr ? C'est bien un épicéa commun ? Très bien, il ne vous reste plus qu'à relever l'endroit sur votre carte.
  
- {{< image src="/images/articles/presenta/DSC08971.jpg" alt="" >}} 
+ {{< image src="images/articles/presenta/DSC08971.jpg" alt="" >}} 
  
  -  Prenez vos jumelles et regardez si vous voyez des cônes qui pendent comme des guirlandes, c'est un bon indice pour ne pas se tromper
  
- {{< image src="/images/articles/presenta/DSC08970.jpg" alt="" >}} 
+ {{< image src="images/articles/presenta/DSC08970.jpg" alt="" >}} 
  
  - La protubérance que l'on aperçoit ci-dessous ne se trouve que sur l'épicéa. Il s'agit de *la galle de l'épicéa*.
  
@@ -72,7 +72,7 @@ featured_image: "/images/articles/piste%20ecureuil/DSC00463.jpg"
  
  - Des numéros sont peints au carrefour des parcelles. Ils correspondent au numéro de parcelle qui figure sur votre carte 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00484.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00484.jpg" alt="" >}} 
  
  - Repérez bien la zone à même la parcelle car certaines parcelles peuvent être immenses et avoir plusieurs essences d'arbre différentes
  -  Rechercher les cônes au sol
@@ -87,7 +87,7 @@ Les cônes d'épicéa:
  
  - Ici les écailles se sont ouvertes pour laisser échapper les graines.
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00437.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00437.jpg" alt="" >}} 
  
  - Ici un cône avec les écailles fermées
  
@@ -95,25 +95,25 @@ Les cônes d'épicéa:
  
  - Les écureuils laissent toujours un petit plumeau au bout du cône car le travail nécessaire pour récupérer les petites graines n'est plus rentable en arrivant à l'extrémité. C'est pourquoi ils l'abandonnent avant la fin.
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00442.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00442.jpg" alt="" >}} 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00446.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00446.jpg" alt="" >}} 
  
  - Ici ces cônes ont été rongés par de petits rongeurs (mulot, souris[,etc]..) et non pas par un écureuil car il n'y a pas de plumeau.
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00455.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00455.jpg" alt="" >}} 
  
  - Cette photo montre une grande quantité de cônes décortiqués avec le reste d'écailles à l'extrémité. Pas de doute c'est bien l'oeuvre d'un écureuil. De plus, les écureuils adorent faire leurs festins de cônes tranquillement installés sur  une souche d'arbre. Ce qui est le cas ici.
  
- {{< image src="/images/articles/presenta/DSC07601.jpg" alt="" >}} 
+ {{< image src="images/articles/presenta/DSC07601.jpg" alt="" >}} 
  
  - Continuez à scruter le sol et essayer de trouver des os
  
- {{< image src="/images/articles/tracespre/DSC08984.jpg" alt="" >}} 
+ {{< image src="images/articles/tracespre/DSC08984.jpg" alt="" >}} 
  
  - Une fois ces os découverts, inspectez les. S'il y a des traces de dent comme sur celui montré ci-dessous cela veut dire que votre parcelle est visitée par des écureuils.
  
- {{< image src="/images/articles/tracespre/DSC08986.jpg" alt="" >}} 
+ {{< image src="images/articles/tracespre/DSC08986.jpg" alt="" >}} 
 
  Recherche du territoire 
    
@@ -124,15 +124,15 @@ Recherche des nids:
  - les écureuil peuvent faire leurs nids dans les épicéa, mais dans ce cas, au vue de la constitution des branches, ce nid se fera forcément à l'extrémité de l'arbre , ce qui le rendra quasiment invisible. 
  - Il est donc préférable de chercher ailleurs. 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00497.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00497.jpg" alt="" >}} 
  
- {{< image src="/images/articles/piste%20ecureuil/DSC00495.jpg" alt="" >}} 
+ {{< image src="images/articles/piste%20ecureuil/DSC00495.jpg" alt="" >}} 
  
  - Les écureuils aiment , quand ils en ont la possibilité de faire leurs nids dans un boulot, un frêne ou un hêtre, car le tronc est lisse, ce qui leur leur procure un gage de sécurité pour car ses prédateurs auront le plus grand mal à y monter. La constitution des branches de ces arbres ont un grand nombre de fourches, utilisées à l'implantation des nids. Il vous suffit donc de prospecter les parcelles de feuillus qui sont à la périphérie de celles des épicéas, et là, vous trouverez facilement les nids.
  - Il faut inspecter les arbres à une hauteur comprise entre 10 et 20 mètres, soit environ la moitié supérieure de l'arbre. 
  - Cette photo montre l'implantation typique d'un nid d'écureuil faite dans une fourche de branche de hêtre.
  
- {{< image src="/images/articles/tracespre/DSC09601.jpg" alt="" >}} 
+ {{< image src="images/articles/tracespre/DSC09601.jpg" alt="" >}} 
  
  - Mais êtes vous sûr qu'il s'agisse bien d'un nid d'écureuil. Pour en être sûr !
  

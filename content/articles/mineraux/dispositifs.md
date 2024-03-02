@@ -7,8 +7,8 @@ categories:
    - article
 description: "Dispositif des minéraux"
 images:
-   - "/images/articles/minero/DSC09493.jpg"
-featured_image: "/images/articles/minero/DSC09493.jpg"
+   - "images/articles/minero/DSC09493.jpg"
+featured_image: "images/articles/minero/DSC09493.jpg"
 ---
 
 # Dispositifs à minéraux
@@ -20,7 +20,7 @@ on peut mettre le bloc directement accroché à un arbre
 - Avantage: Rapidité de mise en place 
 - inconvénient: Ce bloc n'alimente qu'un seul site et n'est pas des plus discret 
 
-{{< image src="/images/articles/minero/DSC06421.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC06421.jpg" alt="" >}} 
 
 on peut casser le bloc et le mettre en petits sac 
 
@@ -28,27 +28,27 @@ on peut casser le bloc et le mettre en petits sac
 
 - Inconvénient: la mise en sacs, demande un peu de temps, et il faut repérer les zones de mise en place pour surveiller la durée de vie des petits blocs, et récupérer les sacs vides.
 
-{{< image src="/images/articles/minero/DSC08855.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08855.jpg" alt="" >}} 
 
 Récupérer un vieux filet à fraisier (souple) ou un filet de pomme de terre 
 
-{{< image src="/images/articles/minero/DSC08852.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08852.jpg" alt="" >}} 
 
 Couper un morceaux du filet, et placer un bloc de minéraux à l'intérieur, (la taille idéale est environ celle d'une balle de tennis) et faites un nœud.
 
-{{< image src="/images/articles/minero/DSC08856.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08856.jpg" alt="" >}} 
 
 Couper l'excèdent du filet, et accrocher une ficelle sous le nœud du filet
 
-{{< image src="/images/articles/minero/DSC08858.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08858.jpg" alt="" >}} 
 
 on peut mettre plusieurs petits blocs dans un même filet
 
-{{< image src="/images/articles/minero/DSC08859.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08859.jpg" alt="" >}} 
 
 l'idéal est de préparer plusieurs filets d'un coup, et de mette les ficelles qu'une fois arrivé au pied de l'arbre   
 
-{{< image src="/images/articles/minero/DSC08860.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08860.jpg" alt="" >}} 
 
 ## Solution alternative:
 
@@ -56,18 +56,18 @@ On peut récupérer des petits filets de boule de graisse que l'on donne aux ois
 
 -  inconvénient: ça limite la taille des blocs
 
-{{< image src="/images/articles/minero/DSC08845.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08845.jpg" alt="" >}} 
 
 On peut accrocher directement le bloc avec une ficelle  
 
 -  inconvénient: quand le bloc fond, il se décroche facilement
 
-{{< image src="/images/articles/minero/DSC08847.jpg" alt="" >}} 
+{{< image src="images/articles/minero/DSC08847.jpg" alt="" >}} 
 
 
 Minéraux (brique à picorer)
 
-{{< image src="/images/articles/minero/image008.jpg" alt="" >}} 
+{{< image src="images/articles/minero/image008.jpg" alt="" >}} 
 
 
 ## Point important pour l'accroche des blocs dans les arbres.

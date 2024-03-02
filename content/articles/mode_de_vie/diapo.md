@@ -7,15 +7,15 @@ categories:
     - article
 description: "Diapo du mode de vie"
 images:
-    - "/images/articles/tracespre/DSC08720.jpg"
-featured_image: "/images/articles/tracespre/DSC08720.jpg"
+    - "images/articles/tracespre/DSC08720.jpg"
+featured_image: "images/articles/tracespre/DSC08720.jpg"
 ---
 
 # Diaporama du mode de vie
 {{< caroussel interval=4000 >}}
-    {{< image src="/images/articles/tracespre/DSC08720.jpg" alt="" >}} 
+    {{< image src="images/articles/tracespre/DSC08720.jpg" alt="" >}} 
 
-    {{< image src="/images/articles/tracespre/DSC09560.jpg" alt="" >}} 
+    {{< image src="images/articles/tracespre/DSC09560.jpg" alt="" >}} 
 
-    {{< image src="/images/articles/tracespre/DSC09611.jpg" alt="" >}} 
+    {{< image src="images/articles/tracespre/DSC09611.jpg" alt="" >}} 
 {{< /caroussel >}}

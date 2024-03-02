@@ -5,6 +5,6 @@ tags:
     - Liste des articles
 description: "Liste des articles"
 images:
-    - "/images/articles/presenta/DSC08644.jpg"
-featured_image: "/images/articles/presenta/DSC08644.jpg"
+    - "images/articles/presenta/DSC08644.jpg"
+featured_image: "images/articles/presenta/DSC08644.jpg"
 ---

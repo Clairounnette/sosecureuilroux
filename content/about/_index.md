@@ -5,8 +5,8 @@ tags:
     - A propos
 description: "Description de l'association"
 images:
-    - "/images/articles/coridor/DSC09311.jpg"
-featured_image: "/images/articles/coridor/DSC09311.jpg"
+    - "images/articles/coridor/DSC09311.jpg"
+featured_image: "images/articles/coridor/DSC09311.jpg"
 ---
 
 # SOS Écureuil Roux et Espèces Sauvages.
@@ -15,7 +15,7 @@ featured_image: "/images/articles/coridor/DSC09311.jpg"
 
 SOS Écureuil Roux et Espèces Sauvages est une association pour la protection, l'observation, et l'initiation à la faune sauvage.
 
-[Association loi 1901 n° RNA: W604002962](/documents/association/Statuts%20Association%20Loi%201901%20vresion%202-1.pdf)
+[Association loi 1901 n° RNA: W604002962](documents/association/Statuts%20Association%20Loi%201901%20vresion%202-1.pdf)
 
 L’association SOS Ecureuil Roux et Espèces Sauvages a été créée le 13 mars 2010 et a été déclarée et enregistrée à la sous-préfecture de Senlis sous le N° W604002962. L’association a été créée vu la loi du 1er juillet 1901 relative au contrat d’association et vu la loi du 16 août 1901 portant règlement d’administration publique pour l’exécution de la loi précitée. Sa parution de création au journal officiel est du 15 mai 2010.
 
@@ -63,24 +63,24 @@ L’association a installé 9 Ecuroducs en majorité sur le territoire du Parc N
 Les visites des sites avec les demandeurs de projets, permettent rapidement de faire une expertise précise de la demande, mais surtout d’envisager les meilleures possibilités de faisabilité. Une implication des élus ou responsables territoriaux rencontrés permet également de les impliquer dans les techniques envisagées et peuvent plus facilement appréhender le niveau de l’engagement financier. L’association apporte, et apportera les conseils techniques dans le respect des demandes des collectivités (ou autres). Si un projet n’était pas correctement envisageable, l’association déclinerait de facto l’étude et sa réalisation.
 
 {{< caroussel interval=4000 height="700px">}}
-    {{< image src="/images/about/history/image2.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image3.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image4.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image5.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image6.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image7.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image8.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image9.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image10.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image11.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image12.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image13.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image14.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image15.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image16.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image17.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image18.jpg" alt="" >}} 
-    {{< image src="/images/about/history/image19.jpg" alt="" >}} 
+    {{< image src="images/about/history/image2.jpg" alt="" >}} 
+    {{< image src="images/about/history/image3.jpg" alt="" >}} 
+    {{< image src="images/about/history/image4.jpg" alt="" >}} 
+    {{< image src="images/about/history/image5.jpg" alt="" >}} 
+    {{< image src="images/about/history/image6.jpg" alt="" >}} 
+    {{< image src="images/about/history/image7.jpg" alt="" >}} 
+    {{< image src="images/about/history/image8.jpg" alt="" >}} 
+    {{< image src="images/about/history/image9.jpg" alt="" >}} 
+    {{< image src="images/about/history/image10.jpg" alt="" >}} 
+    {{< image src="images/about/history/image11.jpg" alt="" >}} 
+    {{< image src="images/about/history/image12.jpg" alt="" >}} 
+    {{< image src="images/about/history/image13.jpg" alt="" >}} 
+    {{< image src="images/about/history/image14.jpg" alt="" >}} 
+    {{< image src="images/about/history/image15.jpg" alt="" >}} 
+    {{< image src="images/about/history/image16.jpg" alt="" >}} 
+    {{< image src="images/about/history/image17.jpg" alt="" >}} 
+    {{< image src="images/about/history/image18.jpg" alt="" >}} 
+    {{< image src="images/about/history/image19.jpg" alt="" >}} 
 {{< /caroussel >}}
 
 ## Enquéte sur l'écureuil roux
