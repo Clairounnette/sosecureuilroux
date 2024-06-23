@@ -1,6 +1,6 @@
 {{- $name := .Get "name" -}} {{- $description := .Get "description" -}} {{-
 $status := .Get "status" -}} {{- $mail := .Get "mail" -}} {{- $number := .Get
-"number" -}} {{- $photo := .Get "photo" -}}
+"number" -}} {{- $photo := .Get "photo" -}} {{- $url := .Get "url" -}}
 
 <div class="staff-card">
     <div class="img-container">
@@ -23,9 +23,8 @@ $status := .Get "status" -}} {{- $mail := .Get "mail" -}} {{- $number := .Get
         <div class="description">
             <p>{{ $description }}</p>
         </div>
-        {{ if ( ne $mail "" | ne $number "" )  }}
-
-        <div class="staff-card__separator"></div>
+        {{ if or (ne $mail "") (ne $number "") }}
+            <div class="staff-card__separator"></div>
         {{ end }}
         {{ if ne $mail "" }}
         <div class="staff-card__contact">
@@ -43,6 +42,14 @@ $status := .Get "status" -}} {{- $mail := .Get "mail" -}} {{- $number := .Get
                 {{ readFile "assets/icons/phone.svg"| safeHTML }}
             </div>
             <p>{{ $number }}</p>
+        </div>
+        {{ end }}
+        {{ if ne $url "" }}
+        <div class="staff-card__contact">
+            <div class="staff-card__icon">
+                {{ readFile "assets/icons/url.svg"| safeHTML }}
+            </div>
+            <a href="{{ $url }}">Site web</a>
         </div>
         {{ end }}
     </div>
